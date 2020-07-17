@@ -2,7 +2,7 @@
   "name": "namoscato",
   "version": "0.1.0",
   "description": "Nick Amoscato's GitHub README",
-  "main": "bin/index.js",
+  "main": "build/index.js",
   "scripts": {
     "check": "gts check",
     "clean": "gts clean",

@@ -10,12 +10,14 @@ const stravaTypeVerbMap: any = {
   Run: 'running',
 };
 
-axios.get('https://amoscato.com/data/current.json').then(response => {
-  const template = fs.readFileSync(
-    `${readmeFilename}${templateExtension}`,
-    'utf8'
-  );
+console.log('Fetching current data');
 
+axios.get('https://amoscato.com/data/current.json').then(response => {
+  const path = `${readmeFilename}${templateExtension}`;
+  console.log(`Reading ${path}`);
+  const template = fs.readFileSync(path, 'utf8');
+
+  console.log(`Rendering ${readmeFilename}`);
   fs.writeFileSync(
     readmeFilename,
     Mustache.render(template, viewFromResponse(response.data))
