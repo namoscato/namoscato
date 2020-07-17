@@ -2,7 +2,7 @@
   "name": "namoscato",
   "version": "0.1.0",
   "description": "Nick Amoscato's GitHub README",
-  "main": "build/index.js",
+  "main": "build/src/index.js",
   "scripts": {
     "check": "gts check",
     "clean": "gts clean",
@@ -10,7 +10,9 @@
     "fix": "gts fix",
     "prepare": "npm run compile",
     "pretest": "npm run compile",
-    "posttest": "npm run check"
+    "posttest": "npm run check",
+    "start": "node build/src/index.js",
+    "test": "jest build/test/"
   },
   "repository": {
     "type": "git",
@@ -22,14 +24,20 @@
   },
   "homepage": "https://github.com/namoscato",
   "devDependencies": {
+    "@types/jest": "^26.0.4",
     "@types/mustache": "^4.0.1",
     "@types/node": "^12.12.50",
+    "axios-mock-adapter": "^1.18.1",
+    "eslint-plugin-jest": "^23.18.0",
     "gts": "^2.0.2",
-    "ts-node": "^8.10.2",
+    "jest": "^26.1.0",
     "typescript": "^3.9.7"
   },
   "dependencies": {
     "axios": "^0.19.2",
     "mustache": "^4.0.1"
-  }
+  },
+  "files": [
+    "build/src"
+  ]
 }

@@ -5,5 +5,5 @@
 * 🎧 listening to [{{ music.artist }}]({{{ music.url }}})
 * 🏃‍♂️ {{ athleticActivity.verb }} [{{ athleticActivity.label }}]({{{ athleticActivity.url }}})
 * 📘 reading [“{{ book.title }}”]({{{ book.url }}})
-* 🎥 watching [“{{ video.title }}”]({{{ video.url }}})
+* 🍿 watching [“{{ video.title }}”]({{{ video.url }}})
 * 🍺 drinking [{{ drink.name }}]({{{ drink.url }}})
