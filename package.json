@@ -1,0 +1,35 @@
+{
+  "name": "namoscato",
+  "version": "0.1.0",
+  "description": "Nick Amoscato's GitHub README",
+  "main": "bin/index.js",
+  "scripts": {
+    "check": "gts check",
+    "clean": "gts clean",
+    "compile": "tsc",
+    "fix": "gts fix",
+    "prepare": "npm run compile",
+    "pretest": "npm run compile",
+    "posttest": "npm run check"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namoscato/namoscato.git"
+  },
+  "author": "Nick Amoscato",
+  "bugs": {
+    "url": "https://github.com/namoscato/namoscato/issues"
+  },
+  "homepage": "https://github.com/namoscato",
+  "devDependencies": {
+    "@types/mustache": "^4.0.1",
+    "@types/node": "^12.12.50",
+    "gts": "^2.0.2",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "mustache": "^4.0.1"
+  }
+}
