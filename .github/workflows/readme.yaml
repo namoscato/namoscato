@@ -1,0 +1,28 @@
+name: readme
+on:
+  schedule:
+    - cron: '0 * * * *'
+  push:
+    branches: [master]
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Read .nvmrc
+        run: echo ::set-output name=NVMRC::$(cat .nvmrc)
+        id: nvm
+      - name: Use Node.js ${{ steps.nvm.outputs.NVMRC }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: '${{ steps.nvm.outputs.NVMRC }}'
+      - name: Install dependencies
+        run: npm ci
+      - name: Generate README
+        run: node build/index.js
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update README
+          branch: master
