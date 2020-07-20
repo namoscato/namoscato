@@ -2,7 +2,7 @@
 
 #### CURRENTLY —
 
-* 🎧 listening to [Lydian Collective](https://www.last.fm/music/Lydian+Collective/_/Cascades)
+* 🎧 listening to [Lydian Collective](https://www.last.fm/music/Lydian+Collective/_/Mr+Sunshine)
 * 🏃‍♂️ running [3.53 miles](https://www.strava.com/activities/3789691647)
 * 📘 reading [“Domain-Driven Design Quickly”](https://www.goodreads.com/book/show/2558105.Domain_Driven_Design_Quickly)
 * 🍿 watching [“Thank you, teachers. Thank you times infinity.”](https://youtu.be/GqmLCMiUrdo)
