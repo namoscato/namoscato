@@ -2,8 +2,18 @@
 
 #### CURRENTLY —
 
-* 🎧 listening to [{{ music.artist }}]({{{ music.url }}})
-* 🏃‍♂️ {{ athleticActivity.verb }} [{{ athleticActivity.label }}]({{{ athleticActivity.url }}})
-* 📘 reading [“{{ book.title }}”]({{{ book.url }}})
-* 🍿 watching [“{{ video.title }}”]({{{ video.url }}})
-* 🍺 drinking [{{ drink.name }}]({{{ drink.url }}})
+{{#music}}
+* 🎧 listening to [{{artist}}]({{{url}}})
+{{/music}}
+{{#athleticActivity}}
+* 🏃‍♂️ {{verb}} [{{label}}]({{{url}}})
+{{/athleticActivity}}
+{{#book}}
+* 📘 reading [“{{title}}”]({{{url}}})
+{{/book}}
+{{#video}}
+* 🍿 watching [“{{title}}”]({{{url}}})
+{{/video}}
+{{#drink}}
+* 🍺 drinking [{{name}}]({{{url}}})
+{{/drink}}
