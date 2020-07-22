@@ -2,7 +2,7 @@
 
 #### CURRENTLY —
 
-* 🎧 listening to [Snarky Puppy](https://www.last.fm/music/Snarky+Puppy/_/Free+Your+Dreams)
+* 🎧 listening to [Garth Stevenson](https://www.last.fm/music/Garth+Stevenson/_/Tides)
 * 🏃‍♂️ running [2.77 miles](https://www.strava.com/activities/3799946469)
 * 🍿 watching [“Thank you, teachers. Thank you times infinity.”](https://youtu.be/GqmLCMiUrdo)
 * 🍺 drinking [DreamWeaver Wheat](https://untappd.com/user/namoscato/checkin/919903209)
