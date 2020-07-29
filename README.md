@@ -3,6 +3,6 @@
 #### CURRENTLY —
 
 * 🎧 listening to [Bill Laurance Trio](https://www.last.fm/music/Bill+Laurance+Trio/_/The+Pines)
-* 🏃‍♂️ running [3.43 miles](https://www.strava.com/activities/3819690084)
+* 🏃‍♂️ running [4.4 miles](https://www.strava.com/activities/3832117068)
 * 🍿 watching [“Thank you, teachers. Thank you times infinity.”](https://youtu.be/GqmLCMiUrdo)
 * 🍺 drinking [Coldspresso](https://untappd.com/user/namoscato/checkin/921709713)
