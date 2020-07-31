@@ -3,6 +3,7 @@
 #### CURRENTLY —
 
 * 🎧 listening to [Yellowjackets](https://www.last.fm/music/Yellowjackets/_/Eddie%27s+In+The+House)
-* 🏃‍♂️ running [4.4 miles](https://www.strava.com/activities/3832117068)
+* 🏃‍♂️ running [3.47 miles](https://www.strava.com/activities/3842736016)
+* 📘 reading [“Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass”](https://www.goodreads.com/book/show/41963432-ghost-work)
 * 🍿 watching [“Thank you, teachers. Thank you times infinity.”](https://youtu.be/GqmLCMiUrdo)
 * 🍺 drinking [Coldspresso](https://untappd.com/user/namoscato/checkin/921709713)
