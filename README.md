@@ -2,7 +2,7 @@
 
 #### CURRENTLY —
 
-* 🎧 listening to [Gerald Clayton](https://www.last.fm/music/Gerald+Clayton/_/Major+Hope)
+* 🎧 listening to [Alina Engibaryan](https://www.last.fm/music/Alina+Engibaryan/_/There+is+a+Place)
 * 🏃‍♂️ running [3.47 miles](https://www.strava.com/activities/3842736016)
 * 📘 reading [“Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass”](https://www.goodreads.com/book/show/41963432-ghost-work)
 * 🍿 watching [“Thank you, teachers. Thank you times infinity.”](https://youtu.be/GqmLCMiUrdo)
