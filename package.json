@@ -28,7 +28,7 @@
     "@types/mustache": "^4.0.1",
     "@types/node": "^12.12.50",
     "axios-mock-adapter": "^1.18.1",
-    "eslint-plugin-jest": "^23.18.0",
+    "eslint-plugin-jest": "^23.20.0",
     "gts": "^2.0.2",
     "jest": "^26.1.0",
     "typescript": "^3.9.7"
