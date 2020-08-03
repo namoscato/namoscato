@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/namoscato",
   "devDependencies": {
-    "@types/jest": "^26.0.4",
+    "@types/jest": "^26.0.8",
     "@types/mustache": "^4.0.1",
     "@types/node": "^12.12.53",
     "axios-mock-adapter": "^1.18.1",
