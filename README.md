@@ -2,7 +2,7 @@
 
 #### CURRENTLY —
 
-* 🎧 listening to [Explosions in the Sky](https://www.last.fm/music/Explosions+in+the+Sky/_/Catastrophe+and+the+Cure)
+* 🎧 listening to [Cory Wong](https://www.last.fm/music/Cory+Wong/_/Light+As+Anything)
 * 🏃‍♂️ running [2.58 miles](https://www.strava.com/activities/3857475901)
 * 📘 reading [“Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass”](https://www.goodreads.com/book/show/41963432-ghost-work)
 * 🍿 watching [“Thank you, teachers. Thank you times infinity.”](https://youtu.be/GqmLCMiUrdo)
