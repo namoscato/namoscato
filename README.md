@@ -2,7 +2,7 @@
 
 #### CURRENTLY —
 
-* 🎧 listening to [Neil Cowley Trio](https://www.last.fm/music/Neil+Cowley+Trio/_/Sparkling)
+* 🎧 listening to [Nat King Cole](https://www.last.fm/music/Nat+King+Cole/_/L-O-V-E)
 * 🏃‍♂️ running [6.18 miles](https://www.strava.com/activities/3878023483)
 * 📘 reading [“Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass”](https://www.goodreads.com/book/show/41963432-ghost-work)
 * 🍿 watching [“Thank you, teachers. Thank you times infinity.”](https://youtu.be/GqmLCMiUrdo)
