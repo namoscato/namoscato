@@ -2,7 +2,7 @@
 
 #### CURRENTLY —
 
-* 🎧 listening to [Snarky Puppy](https://www.last.fm/music/Snarky+Puppy/_/Kite)
+* 🎧 listening to [Snarky Puppy](https://www.last.fm/music/Snarky+Puppy/_/Deep)
 * 🏃‍♂️ running [3.03 miles](https://www.strava.com/activities/3896666397)
 * 📘 reading [“Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass”](https://www.goodreads.com/book/show/41963432-ghost-work)
 * 🍿 watching [“Thank you, teachers. Thank you times infinity.”](https://youtu.be/GqmLCMiUrdo)
