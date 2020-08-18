@@ -2,7 +2,7 @@
 
 #### CURRENTLY —
 
-* 🎧 listening to [The Accidentals](https://www.last.fm/music/The+Accidentals/_/Blessed)
+* 🎧 listening to [The Accidentals](https://www.last.fm/music/The+Accidentals/_/Mangrove)
 * 🏃‍♂️ running [2.99 miles](https://www.strava.com/activities/3925479118)
 * 📘 reading [“Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass”](https://www.goodreads.com/book/show/41963432-ghost-work)
 * 🍿 watching [“Thank you, teachers. Thank you times infinity.”](https://youtu.be/GqmLCMiUrdo)
