@@ -2,7 +2,7 @@
 
 #### CURRENTLY —
 
-* 🎧 listening to [Foehn Trio](https://www.last.fm/music/Foehn+Trio/_/Wolves)
+* 🎧 listening to [Foehn Trio](https://www.last.fm/music/Foehn+Trio/_/Free+Ride)
 * 🏃‍♂️ running [2.84 miles](https://www.strava.com/activities/3939974716)
 * 📘 reading [“Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass”](https://www.goodreads.com/book/show/41963432-ghost-work)
 * 🍿 watching [“Thank you, teachers. Thank you times infinity.”](https://youtu.be/GqmLCMiUrdo)
