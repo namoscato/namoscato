@@ -2,7 +2,7 @@
 
 #### CURRENTLY —
 
-* 🎧 listening to [Bob Mintzer Big Band](https://www.last.fm/music/Bob+Mintzer+Big+Band/_/Runferyerlife)
+* 🎧 listening to [Duende Libre](https://www.last.fm/music/Duende+Libre/_/Echoes+(Wassoulou))
 * 🏃‍♂️ running [2.84 miles](https://www.strava.com/activities/3939974716)
 * 📘 reading [“Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass”](https://www.goodreads.com/book/show/41963432-ghost-work)
 * 🍿 watching [“Thank you, teachers. Thank you times infinity.”](https://youtu.be/GqmLCMiUrdo)
