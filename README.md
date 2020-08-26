@@ -2,7 +2,7 @@
 
 #### CURRENTLY —
 
-* 🎧 listening to [Vulfpeck](https://www.last.fm/music/Vulfpeck/_/Rango+II)
+* 🎧 listening to [Yellowjackets](https://www.last.fm/music/Yellowjackets/_/Tenacity)
 * 🏃‍♂️ running [3.07 miles](https://www.strava.com/activities/3962902090)
 * 📘 reading [“Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass”](https://www.goodreads.com/book/show/41963432-ghost-work)
 * 🍿 watching [“SONGS FOR LOVERS - COFFEE BREAK IS OVER”](https://youtu.be/aYYFmp9NBTk)
