@@ -2,7 +2,7 @@
 
 #### CURRENTLY —
 
-* 🎧 listening to [Now, Now](https://www.last.fm/music/Now,+Now/_/Thread)
+* 🎧 listening to [The Accidentals](https://www.last.fm/music/The+Accidentals/_/Brake)
 * 🏃‍♂️ running [2.87 miles](https://www.strava.com/activities/3976992094)
 * 📘 reading [“Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass”](https://www.goodreads.com/book/show/41963432-ghost-work)
 * 🍿 watching [“SONGS FOR LOVERS - COFFEE BREAK IS OVER”](https://youtu.be/aYYFmp9NBTk)
