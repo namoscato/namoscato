@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * 🎧 listening to [The Accidentals](https://www.last.fm/music/The+Accidentals/_/City+of+Cardboard)
-* 🏃‍♂️ running [2.87 miles](https://www.strava.com/activities/3976992094)
+* 🏃‍♂️ running [7.05 miles](https://www.strava.com/activities/3986471811)
 * 📘 reading [“Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass”](https://www.goodreads.com/book/show/41963432-ghost-work)
 * 🍿 watching [“SONGS FOR LOVERS - COFFEE BREAK IS OVER”](https://youtu.be/aYYFmp9NBTk)
 * 🍺 drinking [DreamWeaver Wheat](https://untappd.com/user/namoscato/checkin/927891203)
