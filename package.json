@@ -30,7 +30,7 @@
     "axios-mock-adapter": "^1.18.2",
     "eslint-plugin-jest": "^23.20.0",
     "gts": "^2.0.2",
-    "jest": "^26.2.2",
+    "jest": "^26.4.2",
     "typescript": "^3.9.7"
   },
   "dependencies": {
