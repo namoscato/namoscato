@@ -2,7 +2,7 @@
 
 #### CURRENTLY —
 
-* 🎧 listening to [Alina Engibaryan](https://www.last.fm/music/Alina+Engibaryan/_/Snova)
+* 🎧 listening to [Nate Smith](https://www.last.fm/music/Nate+Smith/_/Retold)
 * 🏃‍♂️ running [7.05 miles](https://www.strava.com/activities/3986471811)
 * 📘 reading [“Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass”](https://www.goodreads.com/book/show/41963432-ghost-work)
 * 🍿 watching [“SONGS FOR LOVERS - COFFEE BREAK IS OVER”](https://youtu.be/aYYFmp9NBTk)
