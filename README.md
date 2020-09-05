@@ -2,7 +2,7 @@
 
 #### CURRENTLY —
 
-* 🎧 listening to [Esbjörn Svensson Trio](https://www.last.fm/music/Esbj%C3%B6rn+Svensson+Trio/_/Tide+of+Trepidation+-+Live)
+* 🎧 listening to [Marcin Wasilewski Trio](https://www.last.fm/music/Marcin+Wasilewski+Trio/_/Diamonds+And+Pearls)
 * 🏃‍♂️ running [2.66 miles](https://www.strava.com/activities/4004986346)
 * 📘 reading [“Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass”](https://www.goodreads.com/book/show/41963432-ghost-work)
 * 🍿 watching [“SONGS FOR LOVERS - COFFEE BREAK IS OVER”](https://youtu.be/aYYFmp9NBTk)
