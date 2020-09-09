@@ -2,6 +2,9 @@
 
 #### CURRENTLY —
 
+{{#journal}}
+* ✏️ writing [“{{title}}”]({{{url}}})
+{{/journal}}
 {{#music}}
 * 🎧 listening to [{{artist}}]({{{url}}})
 {{/music}}
