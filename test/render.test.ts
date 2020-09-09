@@ -30,7 +30,21 @@ mock.onGet('https://amoscato.com/data/current.json').reply(200, {
   },
 });
 
+mock.onGet('https://amoscato.com/journal/index.xml').reply(
+  200,
+  `<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<script/>
+<channel>
+<item>
+<title>Observable Development</title>
+<link>https://amoscato.com/journal/observable-development/</link>
+</item>
+</channel>
+</rss>`
+);
+
 const expectedContent = `
+* ✏️ writing [“Observable Development”](https://amoscato.com/journal/observable-development/)
 * 🎧 listening to [Yellowjackets](https://www.last.fm/music/Yellowjackets/_/Can%27t+We+Elope)
 * 🏃‍♂️ running [3.41 miles](https://www.strava.com/activities/3770171237)
 * 📘 reading [“Domain-Driven Design Quickly”](https://www.goodreads.com/book/show/2558105.Domain_Driven_Design_Quickly)

@@ -27,6 +27,7 @@
     "@types/jest": "^26.0.12",
     "@types/mustache": "^4.0.1",
     "@types/node": "^12.12.54",
+    "@types/xml2js": "^0.4.5",
     "axios-mock-adapter": "^1.18.2",
     "eslint-plugin-jest": "^23.20.0",
     "gts": "^2.0.2",
@@ -35,7 +36,8 @@
   },
   "dependencies": {
     "axios": "^0.19.2",
-    "mustache": "^4.0.1"
+    "mustache": "^4.0.1",
+    "rss-parser": "^3.9.0"
   },
   "files": [
     "build/src"
