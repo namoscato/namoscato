@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“Resumator Retrospective”](https://amoscato.com/journal/resumator-retrospective/)
-* 🎧 listening to [The Cinematic Orchestra](https://www.last.fm/music/The+Cinematic+Orchestra/_/Wait+For+Now%2FLeave+The+World)
+* 🎧 listening to [Pat Metheny](https://www.last.fm/music/Pat+Metheny/_/One+Quiet+Night)
 * 🏃‍♂️ running [3.46 miles](https://www.strava.com/activities/4132270411)
 * 📘 reading [“UZMO - Denken mit dem Stift Visuell präsentieren dokumentieren und”](https://www.goodreads.com/book/show/22713395-uzmo---denken-mit-dem-stift-visuell-pr-sentieren-dokumentieren-und)
 * 🍿 watching [“The Logical Song | Supertramp | Pomplamoose”](https://youtu.be/U8TYyG6QPQE)
