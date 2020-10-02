@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“Resumator Retrospective”](https://amoscato.com/journal/resumator-retrospective/)
-* 🎧 listening to [Vulfpeck](https://www.last.fm/music/Vulfpeck/_/Mr.+Finish+Line+(feat.+Christine+Hucal+&+Theo+Katzman))
+* 🎧 listening to [Vulfpeck](https://www.last.fm/music/Vulfpeck/_/Running+Away+(feat.+Joey+Dosik,+David+T.+Walker+&+James+Gadson))
 * 🏃‍♂️ running [3.46 miles](https://www.strava.com/activities/4132270411)
 * 📘 reading [“UZMO - Denken mit dem Stift Visuell präsentieren dokumentieren und”](https://www.goodreads.com/book/show/22713395-uzmo---denken-mit-dem-stift-visuell-pr-sentieren-dokumentieren-und)
 * 🍿 watching [“The Logical Song | Supertramp | Pomplamoose”](https://youtu.be/U8TYyG6QPQE)
