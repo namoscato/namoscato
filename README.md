@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“Resumator Retrospective”](https://amoscato.com/journal/resumator-retrospective/)
-* 🎧 listening to [The Accidentals](https://www.last.fm/music/The+Accidentals/_/Marrow+(From+%22Almost+Home%22))
+* 🎧 listening to [Cory Henry](https://www.last.fm/music/Cory+Henry/_/Testify+-+Live+in+LA)
 * 🏃‍♂️ running [3.62 miles](https://www.strava.com/activities/4162832688)
 * 📘 reading [“UZMO - Denken mit dem Stift Visuell präsentieren dokumentieren und”](https://www.goodreads.com/book/show/22713395-uzmo---denken-mit-dem-stift-visuell-pr-sentieren-dokumentieren-und)
 * 🍿 watching [“The Logical Song | Supertramp | Pomplamoose”](https://youtu.be/U8TYyG6QPQE)
