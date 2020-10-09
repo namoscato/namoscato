@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“Resumator Retrospective”](https://amoscato.com/journal/resumator-retrospective/)
-* 🎧 listening to [Neil Cowley Trio](https://www.last.fm/music/Neil+Cowley+Trio/_/Stereoface)
+* 🎧 listening to [Bill Laurance](https://www.last.fm/music/Bill+Laurance/_/Time+To+Run)
 * 🏃‍♂️ running [3.62 miles](https://www.strava.com/activities/4162832688)
 * 📘 reading [“UZMO - Denken mit dem Stift Visuell präsentieren dokumentieren und”](https://www.goodreads.com/book/show/22713395-uzmo---denken-mit-dem-stift-visuell-pr-sentieren-dokumentieren-und)
 * 🍿 watching [“The Logical Song | Supertramp | Pomplamoose”](https://youtu.be/U8TYyG6QPQE)
