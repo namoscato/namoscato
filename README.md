@@ -2,7 +2,7 @@
 
 #### CURRENTLY —
 
-* ✏️ writing [“Resumator Retrospective”](https://amoscato.com/journal/resumator-retrospective/)
+* ✏️ writing [“On Building TodayPGH”](https://amoscato.com/journal/on-building-todaypgh/)
 * 🎧 listening to [Snarky Puppy](https://www.last.fm/music/Snarky+Puppy/_/Atchafalaya)
 * 🏃‍♂️ running [3.47 miles](https://www.strava.com/activities/4197825107)
 * 📘 reading [“UZMO - Denken mit dem Stift Visuell präsentieren dokumentieren und”](https://www.goodreads.com/book/show/22713395-uzmo---denken-mit-dem-stift-visuell-pr-sentieren-dokumentieren-und)
