@@ -4,13 +4,13 @@
   "description": "Nick Amoscato's GitHub README",
   "main": "build/src/index.js",
   "scripts": {
-    "check": "gts check",
+    "lint": "gts lint",
     "clean": "gts clean",
     "compile": "tsc",
     "fix": "gts fix",
     "prepare": "npm run compile",
     "pretest": "npm run compile",
-    "posttest": "npm run check",
+    "posttest": "npm run lint",
     "start": "node build/src/index.js",
     "test": "jest build/test/"
   },
