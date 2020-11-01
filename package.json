@@ -35,7 +35,7 @@
     "typescript": "^3.9.7"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.0",
     "mustache": "^4.0.1",
     "rss-parser": "^3.9.0"
   },
