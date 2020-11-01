@@ -26,7 +26,7 @@
   "devDependencies": {
     "@types/jest": "^26.0.15",
     "@types/mustache": "^4.0.1",
-    "@types/node": "^12.12.62",
+    "@types/node": "^12.19.3",
     "@types/xml2js": "^0.4.5",
     "axios-mock-adapter": "^1.18.2",
     "eslint-plugin-jest": "^24.1.0",
