@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“On Building TodayPGH”](https://amoscato.com/journal/on-building-todaypgh/)
-* 🎧 listening to [Supertramp](https://www.last.fm/music/Supertramp/_/Goodbye+Stranger+-+2010+Remastered)
+* 🎧 listening to [Supertramp](https://www.last.fm/music/Supertramp/_/Lord+Is+It+Mine+-+2010+Remastered)
 * 🏃‍♂️ running [3.57 miles](https://www.strava.com/activities/4228184240)
 * 📘 reading [“UZMO - Denken mit dem Stift Visuell präsentieren dokumentieren und”](https://www.goodreads.com/book/show/22713395-uzmo---denken-mit-dem-stift-visuell-pr-sentieren-dokumentieren-und)
 * 🍿 watching [“An approach to automated caching for public &amp; private GraphQL APIs”](https://youtu.be/HJPYnUT5unw)
