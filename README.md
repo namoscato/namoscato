@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“On Building TodayPGH”](https://amoscato.com/journal/on-building-todaypgh/)
-* 🎧 listening to [WordHarmonic](https://www.last.fm/music/WordHarmonic/_/Dance+Of+The+Sugar+Plum+Fairy+-+Light+Jazz+Christmas+Eve+Version)
+* 🎧 listening to [Pentatonix](https://www.last.fm/music/Pentatonix/_/Hallelujah)
 * 🏃‍♂️ running [2.97 miles](https://www.strava.com/activities/4393073468)
 * 📘 reading [“UZMO - Denken mit dem Stift Visuell präsentieren dokumentieren und”](https://www.goodreads.com/book/show/22713395-uzmo---denken-mit-dem-stift-visuell-pr-sentieren-dokumentieren-und)
 * 🍿 watching [“Announcing OpenSource Research: A Community-Driven Research Project”](https://youtu.be/Ir_H4FUZPQM)
