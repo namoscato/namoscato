@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“On Building TodayPGH”](https://amoscato.com/journal/on-building-todaypgh/)
-* 🎧 listening to [Ido Mann](https://www.last.fm/music/Ido+Mann/_/Feels+Like+Christmas)
+* 🎧 listening to [Sasha Cohn](https://www.last.fm/music/Sasha+Cohn/_/Carol+Of+The+Bells)
 * 🏃‍♂️ running [2.97 miles](https://www.strava.com/activities/4393073468)
 * 📘 reading [“UZMO - Denken mit dem Stift Visuell präsentieren dokumentieren und”](https://www.goodreads.com/book/show/22713395-uzmo---denken-mit-dem-stift-visuell-pr-sentieren-dokumentieren-und)
 * 🍿 watching [“Take Care of Yourself | Doc Morris Christmas Advert 2020”](https://youtu.be/Fz1q8NWbExc)
