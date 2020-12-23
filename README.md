@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“On Building TodayPGH”](https://amoscato.com/journal/on-building-todaypgh/)
-* 🎧 listening to [Spyro Gyra](https://www.last.fm/music/Spyro+Gyra/_/The+First+Noel)
+* 🎧 listening to [Spyro Gyra](https://www.last.fm/music/Spyro+Gyra/_/The+Christmas+Song)
 * 🏃‍♂️ running [3.37 miles](https://www.strava.com/activities/4508445217)
 * 📘 reading [“UZMO - Denken mit dem Stift Visuell präsentieren dokumentieren und”](https://www.goodreads.com/book/show/22713395-uzmo---denken-mit-dem-stift-visuell-pr-sentieren-dokumentieren-und)
 * 🍿 watching [“Take Care of Yourself | Doc Morris Christmas Advert 2020”](https://youtu.be/Fz1q8NWbExc)
