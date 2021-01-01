@@ -37,7 +37,7 @@
   "dependencies": {
     "axios": "^0.21.0",
     "mustache": "^4.0.1",
-    "rss-parser": "^3.9.0"
+    "rss-parser": "^3.10.0"
   },
   "files": [
     "build/src"
