@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“On Building TodayPGH”](https://amoscato.com/journal/on-building-todaypgh/)
-* 🎧 listening to [Neil Cowley](https://www.last.fm/music/Neil+Cowley/_/She+Lives+In+Golden+Sands)
+* 🎧 listening to [Neil Cowley](https://www.last.fm/music/Neil+Cowley/_/Last+Man+On+The+Moon)
 * 🏃‍♂️ running [4.7 miles](https://www.strava.com/activities/4555174119)
 * 📘 reading [“Act Like a Leader, Think Like a Leader”](https://www.goodreads.com/book/show/21413975-act-like-a-leader-think-like-a-leader)
 * 🍿 watching [“Do You Love Me?”](https://youtu.be/fn3KWM1kuAw)
