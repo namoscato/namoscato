@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“On Building TodayPGH”](https://amoscato.com/journal/on-building-todaypgh/)
-* 🎧 listening to [Explosions in the Sky](https://www.last.fm/music/Explosions+in+the+Sky/_/Be+Comfortable,+Creature)
+* 🎧 listening to [Mogwai](https://www.last.fm/music/Mogwai/_/I%27m+Not+Going+When+I+Don%27t+Get+Back)
 * 🏃‍♂️ running [3.13 miles](https://www.strava.com/activities/4641457583)
 * 📘 reading [“Act Like a Leader, Think Like a Leader”](https://www.goodreads.com/book/show/21413975-act-like-a-leader-think-like-a-leader)
 * 🍿 watching [“Do You Love Me?”](https://youtu.be/fn3KWM1kuAw)
