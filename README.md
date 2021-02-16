@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“On Building TodayPGH”](https://amoscato.com/journal/on-building-todaypgh/)
-* 🎧 listening to [The Cinematic Orchestra](https://www.last.fm/music/The+Cinematic+Orchestra/_/Music+Box)
+* 🎧 listening to [The Cinematic Orchestra](https://www.last.fm/music/The+Cinematic+Orchestra/_/Man+With+the+Movie+Camera)
 * 🏃‍♂️ running [3.13 miles](https://www.strava.com/activities/4641457583)
 * 📘 reading [“Act Like a Leader, Think Like a Leader”](https://www.goodreads.com/book/show/21413975-act-like-a-leader-think-like-a-leader)
 * 🍿 watching [“Do You Love Me?”](https://youtu.be/fn3KWM1kuAw)
