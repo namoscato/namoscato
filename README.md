@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“On Building TodayPGH”](https://amoscato.com/journal/on-building-todaypgh/)
-* 🎧 listening to [House of Waters](https://www.last.fm/music/House+of+Waters/_/In+Waves)
+* 🎧 listening to [Chris Botti](https://www.last.fm/music/Chris+Botti/_/All+Would+Envy+(feat.+Shawn+Colvin))
 * 🏃‍♂️ running [3.13 miles](https://www.strava.com/activities/4641457583)
 * 📘 reading [“Act Like a Leader, Think Like a Leader”](https://www.goodreads.com/book/show/21413975-act-like-a-leader-think-like-a-leader)
 * 🍿 watching [“Do You Love Me?”](https://youtu.be/fn3KWM1kuAw)
