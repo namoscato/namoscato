@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“On Building TodayPGH”](https://amoscato.com/journal/on-building-todaypgh/)
-* 🎧 listening to [Steve Reich](https://www.last.fm/music/Steve+Reich/_/Nagoya+Guitars)
+* 🎧 listening to [Steve Reich](https://www.last.fm/music/Steve+Reich/_/Godspeed+Remix+(Nagoya+Guitars+remix))
 * 🏃‍♂️ running [3.13 miles](https://www.strava.com/activities/4641457583)
 * 📘 reading [“Thinking in Systems: A Primer”](https://www.goodreads.com/book/show/18891716-thinking-in-systems)
 * 🍿 watching [“Do You Love Me?”](https://youtu.be/fn3KWM1kuAw)
