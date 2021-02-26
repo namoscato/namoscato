@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“On Building TodayPGH”](https://amoscato.com/journal/on-building-todaypgh/)
-* 🎧 listening to [Lake Street Dive](https://www.last.fm/music/Lake+Street+Dive/_/Bad+Self+Portraits)
+* 🎧 listening to [Miles Davis](https://www.last.fm/music/Miles+Davis/_/So+What+(feat.+John+Coltrane,+Cannonball+Adderley+&+Bill+Evans))
 * 🏃‍♂️ running [3.13 miles](https://www.strava.com/activities/4641457583)
 * 📘 reading [“Thinking in Systems: A Primer”](https://www.goodreads.com/book/show/18891716-thinking-in-systems)
 * 🍿 watching [“Do You Love Me?”](https://youtu.be/fn3KWM1kuAw)
