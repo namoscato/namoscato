@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“On Building TodayPGH”](https://amoscato.com/journal/on-building-todaypgh/)
-* 🎧 listening to [The Accidentals](https://www.last.fm/music/The+Accidentals/_/Gold+Lion)
+* 🎧 listening to [Neil Cowley](https://www.last.fm/music/Neil+Cowley/_/Prayer)
 * 🏃‍♂️ running [2.63 miles](https://www.strava.com/activities/5078444376)
 * 📘 reading [“Thinking in Systems: A Primer”](https://www.goodreads.com/book/show/18891716-thinking-in-systems)
 * 🍿 watching [“Save Tonight &#x2F; Wake Me Up MASHUP | Eagle Eye Cherry &amp; Avicii | Cover by ortoPilot”](https://youtu.be/n-8VWGxN6yI)
