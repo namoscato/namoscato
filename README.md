@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“On Building TodayPGH”](https://amoscato.com/journal/on-building-todaypgh/)
-* 🎧 listening to [Little Tybee](https://www.last.fm/music/Little+Tybee/_/Baritone)
+* 🎧 listening to [Busty and the Bass](https://www.last.fm/music/Busty+and+the+Bass/_/ET+Part+III:+Jupiter)
 * 🏃‍♂️ running [2.72 miles](https://www.strava.com/activities/5206540262)
 * 📘 reading [“Thinking in Systems: A Primer”](https://www.goodreads.com/book/show/18891716-thinking-in-systems)
 * 🍿 watching [“Google Analytics: 412 Food Rescue Case Study”](https://youtu.be/ObfMlYMk5QI)
