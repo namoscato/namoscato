@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/namoscato",
   "devDependencies": {
-    "@types/jest": "^26.0.20",
+    "@types/jest": "^26.0.23",
     "@types/mustache": "^4.1.1",
     "@types/node": "^14.14.31",
     "@types/xml2js": "^0.4.8",
