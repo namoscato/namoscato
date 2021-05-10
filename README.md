@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“On Building TodayPGH”](https://amoscato.com/journal/on-building-todaypgh/)
-* 🎧 listening to [Vulfpeck](https://www.last.fm/music/Vulfpeck/_/Funky+Duck)
+* 🎧 listening to [Steve Reich](https://www.last.fm/music/Steve+Reich/_/Electric+Counterpoint:+I.+Fast)
 * 🏃‍♂️ running [3.78 miles](https://www.strava.com/activities/5239832004)
 * 📘 reading [“Thinking in Systems: A Primer”](https://www.goodreads.com/book/show/18891716-thinking-in-systems)
 * 🍿 watching [“Google Analytics: 412 Food Rescue Case Study”](https://youtu.be/ObfMlYMk5QI)
