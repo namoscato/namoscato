@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“On Building TodayPGH”](https://amoscato.com/journal/on-building-todaypgh/)
-* 🎧 listening to [Esbjörn Svensson Trio](https://www.last.fm/music/Esbj%C3%B6rn+Svensson+Trio/_/The+Return+Of+Mohammed)
+* 🎧 listening to [Esbjörn Svensson Trio](https://www.last.fm/music/Esbj%C3%B6rn+Svensson+Trio/_/Cornette)
 * 🏃‍♂️ running [3.45 miles](https://www.strava.com/activities/5354609817)
 * 📘 reading [“Thinking in Systems: A Primer”](https://www.goodreads.com/book/show/18891716-thinking-in-systems)
 * 🍿 watching [“Google Analytics: 412 Food Rescue Case Study”](https://youtu.be/ObfMlYMk5QI)
