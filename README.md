@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“On Building TodayPGH”](https://amoscato.com/journal/on-building-todaypgh/)
-* 🎧 listening to [Bill Laurance](https://www.last.fm/music/Bill+Laurance/_/Money+In+The+Desert)
+* 🎧 listening to [Supertramp](https://www.last.fm/music/Supertramp/_/Take+The+Long+Way+Home+-+2010+Remastered)
 * 🏃‍♂️ running [3.45 miles](https://www.strava.com/activities/5354609817)
 * 📘 reading [“Thinking in Systems: A Primer”](https://www.goodreads.com/book/show/18891716-thinking-in-systems)
 * 🍿 watching [“The AAPI Experience at NA”](https://youtu.be/uiccwNSOGjU)
