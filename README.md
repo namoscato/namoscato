@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“On Building TodayPGH”](https://amoscato.com/journal/on-building-todaypgh/)
-* 🎧 listening to [Chicago](https://www.last.fm/music/Chicago/_/Questions+67+and+68+-+2002+Remaster)
+* 🎧 listening to [Chuck Mangione](https://www.last.fm/music/Chuck+Mangione/_/Feels+So+Good)
 * 🏃‍♂️ running [2 miles](https://www.strava.com/activities/5399666259)
 * 📘 reading [“Thinking in Systems: A Primer”](https://www.goodreads.com/book/show/18891716-thinking-in-systems)
 * 🍿 watching [“The AAPI Experience at NA”](https://youtu.be/uiccwNSOGjU)
