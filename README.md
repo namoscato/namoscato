@@ -2,7 +2,7 @@
 
 #### CURRENTLY —
 
-* ✏️ writing [“On Building TodayPGH”](https://amoscato.com/journal/on-building-todaypgh/)
+* ✏️ writing [“Rapid Product Development”](https://amoscato.com/journal/rapid-product-development/)
 * 🎧 listening to [Neil Cowley Trio](https://www.last.fm/music/Neil+Cowley+Trio/_/Monoface)
 * 🏃‍♂️ running [3.28 miles](https://www.strava.com/activities/5439815291)
 * 📘 reading [“Thinking in Systems: A Primer”](https://www.goodreads.com/book/show/18891716-thinking-in-systems)
