@@ -7,4 +7,4 @@
 * 🏃‍♂️ running [3.37 miles](https://www.strava.com/activities/5467668859)
 * 📘 reading [“Thinking in Systems: A Primer”](https://www.goodreads.com/book/show/18891716-thinking-in-systems)
 * 🍿 watching [“The AAPI Experience at NA”](https://youtu.be/uiccwNSOGjU)
-* 🍺 drinking [Washington Lager Amber](https://untappd.com/user/namoscato/checkin/1029615637)
+* 🍺 drinking [Yeti](https://untappd.com/user/namoscato/checkin/1040427036)
