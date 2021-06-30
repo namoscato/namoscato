@@ -4,7 +4,7 @@
 
 * ✏️ writing [“Rapid Product Development”](https://amoscato.com/journal/rapid-product-development/)
 * 🎧 listening to [Hiromi](https://www.last.fm/music/Hiromi/_/Wonderland)
-* 🏃‍♂️ running [3.5 miles](https://www.strava.com/activities/5515763612)
+* 🏃‍♂️ running [2.64 miles](https://www.strava.com/activities/5552245134)
 * 📘 reading [“Thinking in Systems: A Primer”](https://www.goodreads.com/book/show/18891716-thinking-in-systems)
 * 🍿 watching [“The AAPI Experience at NA”](https://youtu.be/uiccwNSOGjU)
 * 🍺 drinking [Wolfrum St. Rye Whiskey Stout](https://untappd.com/user/namoscato/checkin/1043806968)
