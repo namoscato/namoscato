@@ -4,7 +4,7 @@
 
 * ✏️ writing [“Rapid Product Development”](https://amoscato.com/journal/rapid-product-development/)
 * 🎧 listening to [Triosence](https://www.last.fm/music/Triosence/_/Visit+Home)
-* 🏃‍♂️ running [3.32 miles](https://www.strava.com/activities/5562459039)
+* 🏃‍♂️ running [2.49 miles](https://www.strava.com/activities/5625476674)
 * 📘 reading [“Thinking in Systems: A Primer”](https://www.goodreads.com/book/show/18891716-thinking-in-systems)
 * 🍿 watching [“The AAPI Experience at NA”](https://youtu.be/uiccwNSOGjU)
 * 🍺 drinking [Golden Monkey](https://untappd.com/user/namoscato/checkin/1050189744)
