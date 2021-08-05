@@ -7,4 +7,4 @@
 * 🏃‍♂️ running [2.26 miles](https://www.strava.com/activities/5731137476)
 * 📘 reading [“Thinking in Systems: A Primer”](https://www.goodreads.com/book/show/18891716-thinking-in-systems)
 * 🍿 watching [“The AAPI Experience at NA”](https://youtu.be/uiccwNSOGjU)
-* 🍺 drinking [Golden Monkey](https://untappd.com/user/namoscato/checkin/1050189744)
+* 🍺 drinking [668 The Neighbor of the Beast](https://untappd.com/user/namoscato/checkin/1061434499)
