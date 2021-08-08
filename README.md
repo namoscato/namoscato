@@ -5,6 +5,6 @@
 * ✏️ writing [“Rapid Product Development”](https://amoscato.com/journal/rapid-product-development/)
 * 🎧 listening to [Gerald Clayton](https://www.last.fm/music/Gerald+Clayton/_/Snake+Bite)
 * 🏃‍♂️ running [2.26 miles](https://www.strava.com/activities/5731137476)
-* 📘 reading [“Thinking in Systems: A Primer”](https://www.goodreads.com/book/show/18891716-thinking-in-systems)
+* 📘 reading [“Team Topologies: Organizing Business and Technology Teams for Fast Flow”](https://www.goodreads.com/book/show/44135420-team-topologies)
 * 🍿 watching [“The AAPI Experience at NA”](https://youtu.be/uiccwNSOGjU)
 * 🍺 drinking [Headway IPA](https://untappd.com/user/namoscato/checkin/1062673227)
