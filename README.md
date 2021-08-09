@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“Rapid Product Development”](https://amoscato.com/journal/rapid-product-development/)
-* 🎧 listening to [Gerald Clayton](https://www.last.fm/music/Gerald+Clayton/_/Snake+Bite)
+* 🎧 listening to [Gerald Clayton](https://www.last.fm/music/Gerald+Clayton/_/Which+Persons%3F)
 * 🏃‍♂️ running [2.26 miles](https://www.strava.com/activities/5731137476)
 * 📘 reading [“Team Topologies: Organizing Business and Technology Teams for Fast Flow”](https://www.goodreads.com/book/show/44135420-team-topologies)
 * 🍿 watching [“The AAPI Experience at NA”](https://youtu.be/uiccwNSOGjU)
