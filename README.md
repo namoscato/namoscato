@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“Rapid Product Development”](https://amoscato.com/journal/rapid-product-development/)
-* 🎧 listening to [Cory Henry](https://www.last.fm/music/Cory+Henry/_/Just+a+Word)
+* 🎧 listening to [Bill Laurance](https://www.last.fm/music/Bill+Laurance/_/Never-Ending+City)
 * 🏃‍♂️ running [3.43 miles](https://www.strava.com/activities/5844503067)
 * 📘 reading [“Team Topologies: Organizing Business and Technology Teams for Fast Flow”](https://www.goodreads.com/book/show/44135420-team-topologies)
 * 🍿 watching [“The AAPI Experience at NA”](https://youtu.be/uiccwNSOGjU)
