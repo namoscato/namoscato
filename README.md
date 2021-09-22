@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“Rapid Product Development”](https://amoscato.com/journal/rapid-product-development/)
-* 🎧 listening to [The Cinematic Orchestra](https://www.last.fm/music/The+Cinematic+Orchestra/_/BlueBirds)
+* 🎧 listening to [Busty and the Bass](https://www.last.fm/music/Busty+and+the+Bass/_/Baggy+Eyed+Dopeman)
 * 🏃‍♂️ running [4.49 miles](https://www.strava.com/activities/5948179037)
 * 📘 reading [“Team Topologies: Organizing Business and Technology Teams for Fast Flow”](https://www.goodreads.com/book/show/44135420-team-topologies)
 * 🍿 watching [“The AAPI Experience at NA”](https://youtu.be/uiccwNSOGjU)
