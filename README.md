@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“Rapid Product Development”](https://amoscato.com/journal/rapid-product-development/)
-* 🎧 listening to [Taylor Swift](https://www.last.fm/music/Taylor+Swift/_/All+Too+Well+(10+Minute+Version)+(Taylor%27s+Version)+(From+the+Vault))
+* 🎧 listening to [Hank Jones](https://www.last.fm/music/Hank+Jones/_/Over+The+Rainbow)
 * 🏃‍♂️ running [5.07 miles](https://www.strava.com/activities/6160167279)
 * 📘 reading [“Team Topologies: Organizing Business and Technology Teams for Fast Flow”](https://www.goodreads.com/book/show/44135420-team-topologies)
 * 🍿 watching [“The AAPI Experience at NA”](https://youtu.be/uiccwNSOGjU)
