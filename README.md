@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“Rapid Product Development”](https://amoscato.com/journal/rapid-product-development/)
-* 🎧 listening to [Modern Jazz Quartet](https://www.last.fm/music/Modern+Jazz+Quartet/_/Softly+as+in+a+Morning+Sunrise)
+* 🎧 listening to [Paolo Fresu](https://www.last.fm/music/Paolo+Fresu/_/But+Not+for+Me)
 * 🏃‍♂️ running [5.07 miles](https://www.strava.com/activities/6160167279)
 * 📘 reading [“Team Topologies: Organizing Business and Technology Teams for Fast Flow”](https://www.goodreads.com/book/show/44135420-team-topologies)
 * 🍿 watching [“The AAPI Experience at NA”](https://youtu.be/uiccwNSOGjU)
