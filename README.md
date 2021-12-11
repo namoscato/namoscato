@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“GraphQL Observability with Sentry”](https://amoscato.com/journal/graphql-observability/)
-* 🎧 listening to [Gerald Albright](https://www.last.fm/music/Gerald+Albright/_/Because+Of+You)
+* 🎧 listening to [Paul McCartney](https://www.last.fm/music/Paul+McCartney/_/Wonderful+Christmastime+-+Edited+Version+%2F+Remastered+2011)
 * 🏃‍♂️ running [5.07 miles](https://www.strava.com/activities/6160167279)
 * 📘 reading [“Team Topologies: Organizing Business and Technology Teams for Fast Flow”](https://www.goodreads.com/book/show/44135420-team-topologies)
 * 🍿 watching [“The AAPI Experience at NA”](https://youtu.be/uiccwNSOGjU)
