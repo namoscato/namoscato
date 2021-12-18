@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“GraphQL Observability with Sentry”](https://amoscato.com/journal/graphql-observability/)
-* 🎧 listening to [Gwen Stefani](https://www.last.fm/music/Gwen+Stefani/_/You+Make+It+Feel+Like+Christmas+(with+Blake+Shelton))
+* 🎧 listening to [Idina Menzel](https://www.last.fm/music/Idina+Menzel/_/Baby+It%27s+Cold+Outside+(duet+with+Michael+Bubl%C3%A9))
 * 🏃‍♂️ running [5.07 miles](https://www.strava.com/activities/6160167279)
 * 📘 reading [“Team Topologies: Organizing Business and Technology Teams for Fast Flow”](https://www.goodreads.com/book/show/44135420-team-topologies)
 * 🍿 watching [“The AAPI Experience at NA”](https://youtu.be/uiccwNSOGjU)
