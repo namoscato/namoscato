@@ -8,3 +8,7 @@ updates:
   open-pull-requests-limit: 10
   reviewers:
   - namoscato
+- package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: monthly
