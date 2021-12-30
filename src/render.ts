@@ -1,5 +1,5 @@
 import axios from 'axios';
-import * as fs from 'fs';
+import {promises} from 'fs';
 import * as Mustache from 'mustache';
 import * as RssParser from 'rss-parser';
 
@@ -19,7 +19,7 @@ interface CurrentData {
   };
 }
 
-export async function render(templatePath: string) {
+export async function render(templatePath: string): Promise<string> {
   console.log('Fetching current data');
   const {data} = await axios.get(
     'https://storage.amoscato.com/www/data/current.json'
@@ -29,13 +29,16 @@ export async function render(templatePath: string) {
   data.journal = await fetchJournal();
 
   console.log(`Reading ${templatePath}`);
-  const template = fs.readFileSync(templatePath, 'utf8');
+  const template = await promises.readFile(templatePath, 'utf8');
 
   console.log('Rendering README');
   return Mustache.render(template, viewFromResponse(data));
 }
 
-async function fetchJournal() {
+async function fetchJournal(): Promise<{
+  title?: string;
+  url?: string;
+}> {
   const {data} = await axios.get('https://amoscato.com/journal/index.xml');
   const journalFeed = await rssParser.parseString(data);
   const journal = journalFeed.items![0];
@@ -46,7 +49,7 @@ async function fetchJournal() {
   };
 }
 
-function viewFromResponse(data: CurrentData) {
+function viewFromResponse(data: CurrentData): CurrentData {
   const athleticActivity = data.athleticActivity;
 
   athleticActivity.verb = stravaTypeVerbMap[athleticActivity.type];

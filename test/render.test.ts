@@ -1,7 +1,7 @@
 import axios from 'axios';
 import MockAdapter from 'axios-mock-adapter';
-import {render} from '../src/render';
 import {readmeTemplate} from '../src';
+import {render} from '../src/render';
 
 const mock = new MockAdapter(axios);
 
@@ -52,8 +52,8 @@ const expectedContent = `
 * 🍺 drinking [Over the Moon](https://untappd.com/user/namoscato/checkin/911389754)
 `;
 
-test('render', () => {
-  return render(readmeTemplate).then(content => {
-    expect(content).toContain(expectedContent);
-  });
+test('render', async () => {
+  const content = await render(readmeTemplate);
+
+  expect(content).toContain(expectedContent);
 });
