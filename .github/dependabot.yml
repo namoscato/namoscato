@@ -1,14 +1,14 @@
 version: 2
 updates:
   - package-ecosystem: npm
-    directory: "/"
+    directory: '/'
     schedule:
       interval: monthly
       timezone: America/New_York
     open-pull-requests-limit: 10
     reviewers:
-    - namoscato
-  - package-ecosystem: "github-actions"
-      directory: "/"
-      schedule:
-        interval: monthly
+      - namoscato
+  - package-ecosystem: 'github-actions'
+    directory: '/'
+    schedule:
+      interval: monthly
