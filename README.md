@@ -2,9 +2,9 @@
 
 #### CURRENTLY —
 
-* ✏️ writing [“Rapid Product Development”](https://amoscato.com/journal/rapid-product-development/)
-* 🎧 listening to [Pat Metheny](https://www.last.fm/music/Pat+Metheny/_/And+I+Love+Her)
+* ✏️ writing [“GraphQL Observability with Sentry”](https://www.amoscato.com/journal/graphql-observability/)
+* 🎧 listening to [Pentatonix](https://www.last.fm/music/Pentatonix/_/The+First+Noel)
 * 🏃‍♂️ running [5.07 miles](https://www.strava.com/activities/6160167279)
-* 📘 reading [“Team Topologies: Organizing Business and Technology Teams for Fast Flow”](https://www.goodreads.com/book/show/44135420-team-topologies)
-* 🍿 watching [“The AAPI Experience at NA”](https://youtu.be/uiccwNSOGjU)
-* 🍺 drinking [Oontz](https://untappd.com/user/namoscato/checkin/1103631857)
+* 📘 reading [“The Anthropocene Reviewed”](https://www.goodreads.com/book/show/55145261-the-anthropocene-reviewed)
+* 🍿 watching [“Bill Laurance &amp; The Untold Orchestra | EFG London Jazz Festival 2021”](https://youtu.be/W626yZi15js)
+* 🍺 drinking [Hayburner](https://untappd.com/user/namoscato/checkin/1114280338)

@@ -5,7 +5,7 @@ import {readmeTemplate} from '../src';
 
 const mock = new MockAdapter(axios);
 
-mock.onGet('https://amoscato.com/data/current.json').reply(200, {
+mock.onGet('https://storage.amoscato.com/www/data/current.json').reply(200, {
   athleticActivity: {
     miles: 3.4175405,
     type: 'Run',

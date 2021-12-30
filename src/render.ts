@@ -21,7 +21,9 @@ interface CurrentData {
 
 export async function render(templatePath: string) {
   console.log('Fetching current data');
-  const {data} = await get('data/current.json');
+  const {data} = await axios.get(
+    'https://storage.amoscato.com/www/data/current.json'
+  );
 
   console.log('Fetching latest journal');
   data.journal = await fetchJournal();
@@ -34,7 +36,7 @@ export async function render(templatePath: string) {
 }
 
 async function fetchJournal() {
-  const {data} = await get('journal/index.xml');
+  const {data} = await axios.get('https://amoscato.com/journal/index.xml');
   const journalFeed = await rssParser.parseString(data);
   const journal = journalFeed.items![0];
 
@@ -42,10 +44,6 @@ async function fetchJournal() {
     title: journal.title,
     url: journal.link,
   };
-}
-
-async function get(path: string) {
-  return axios.get(`https://amoscato.com/${path}`);
 }
 
 function viewFromResponse(data: CurrentData) {
