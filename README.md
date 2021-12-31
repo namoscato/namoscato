@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“GraphQL Observability with Sentry”](https://www.amoscato.com/journal/graphql-observability/)
-* 🎧 listening to [ABBA](https://www.last.fm/music/ABBA/_/Voulez-Vous)
+* 🎧 listening to [Madonna](https://www.last.fm/music/Madonna/_/Vogue)
 * 🏃‍♂️ running [5.07 miles](https://www.strava.com/activities/6160167279)
 * 📘 reading [“The Anthropocene Reviewed”](https://www.goodreads.com/book/show/55145261-the-anthropocene-reviewed)
 * 🍿 watching [“Bill Laurance &amp; The Untold Orchestra | EFG London Jazz Festival 2021”](https://youtu.be/W626yZi15js)
