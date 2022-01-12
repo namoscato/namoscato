@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“GraphQL Observability with Sentry”](https://www.amoscato.com/journal/graphql-observability/)
-* 🎧 listening to [Bill Laurance](https://www.last.fm/music/Bill+Laurance/_/Audrey)
+* 🎧 listening to [Steve Reich](https://www.last.fm/music/Steve+Reich/_/Music+for+18+Musicians:+Section+VII)
 * 🏃‍♂️ running [5.07 miles](https://www.strava.com/activities/6160167279)
 * 📘 reading [“Before the Coffee Gets Cold (Before the Coffee Gets Cold, #1)”](https://www.goodreads.com/book/show/44421460-before-the-coffee-gets-cold)
 * 🍿 watching [“Bill Laurance &amp; The Untold Orchestra | EFG London Jazz Festival 2021”](https://youtu.be/W626yZi15js)
