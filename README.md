@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“GraphQL Observability with Sentry”](https://www.amoscato.com/journal/graphql-observability/)
-* 🎧 listening to [Gerald Clayton](https://www.last.fm/music/Gerald+Clayton/_/If+I+Were+A+Bell)
+* 🎧 listening to [Gerald Clayton](https://www.last.fm/music/Gerald+Clayton/_/3D)
 * 🏃‍♂️ running [5.07 miles](https://www.strava.com/activities/6160167279)
 * 📘 reading [“Node.js Design Patterns: Design and Implement Production-Grade Node.js Applications Using Proven Patterns and Techniques”](https://www.goodreads.com/book/show/54518801-node-js-design-patterns)
 * 🍿 watching [“Bill Laurance &amp; The Untold Orchestra | EFG London Jazz Festival 2021”](https://youtu.be/W626yZi15js)
