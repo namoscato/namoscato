@@ -2,22 +2,10 @@ import axios from 'axios';
 import {promises} from 'fs';
 import * as Mustache from 'mustache';
 import * as RssParser from 'rss-parser';
+import {STRAVA_TYPE_VERB_MAP} from './consts';
+import {CurrentData} from './types';
 
 const rssParser = new RssParser();
-
-const stravaTypeVerbMap: Record<string, string> = {
-  Ride: 'biking',
-  Run: 'running',
-};
-
-interface CurrentData {
-  athleticActivity: {
-    type: string;
-    miles: number;
-    verb?: string;
-    label?: string;
-  };
-}
 
 export async function render(templatePath: string): Promise<string> {
   console.log('Fetching current data');
@@ -41,7 +29,7 @@ async function fetchJournal(): Promise<{
 }> {
   const {data} = await axios.get('https://amoscato.com/journal/index.xml');
   const journalFeed = await rssParser.parseString(data);
-  const journal = journalFeed.items![0];
+  const journal = journalFeed.items[0];
 
   return {
     title: journal.title,
@@ -52,7 +40,7 @@ async function fetchJournal(): Promise<{
 function viewFromResponse(data: CurrentData): CurrentData {
   const athleticActivity = data.athleticActivity;
 
-  athleticActivity.verb = stravaTypeVerbMap[athleticActivity.type];
+  athleticActivity.verb = STRAVA_TYPE_VERB_MAP[athleticActivity.type];
   athleticActivity.label = `${
     Math.floor(100 * athleticActivity.miles) / 100
   } miles`;
