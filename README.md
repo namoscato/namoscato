@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“GraphQL Observability with Sentry”](https://www.amoscato.com/journal/graphql-observability/)
-* 🎧 listening to [Vulfpeck](https://www.last.fm/music/Vulfpeck/_/1+for+1,+DiMaggio)
+* 🎧 listening to [Vulfpeck](https://www.last.fm/music/Vulfpeck/_/Aunt+Leslie)
 * 🏃‍♂️ running [2.5 miles](https://www.strava.com/activities/7236789257)
 * 📘 reading [“The Site Reliability Workbook: Practical Ways to Implement SRE”](https://www.goodreads.com/book/show/39687146-the-site-reliability-workbook)
 * 🍿 watching [“Bill Laurance &amp; The Untold Orchestra | EFG London Jazz Festival 2021”](https://youtu.be/W626yZi15js)
