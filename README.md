@@ -7,4 +7,4 @@
 * 🏃‍♂️ running [2.99 miles](https://www.strava.com/activities/7284765786)
 * 📘 reading [“The Site Reliability Workbook: Practical Ways to Implement SRE”](https://www.goodreads.com/book/show/39687146-the-site-reliability-workbook)
 * 🍿 watching [“Bill Laurance &amp; The Untold Orchestra | EFG London Jazz Festival 2021”](https://youtu.be/W626yZi15js)
-* 🍺 drinking [Something Cold](https://untappd.com/user/namoscato/checkin/1169120523)
+* 🍺 drinking [Amber Ale](https://untappd.com/user/namoscato/checkin/1169323126)
