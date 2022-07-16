@@ -6,5 +6,5 @@
 * 🎧 listening to [Jesus Molina](https://www.last.fm/music/Jesus+Molina/_/Night+in+Tunisia)
 * 🏃‍♂️ running [2.57 miles](https://www.strava.com/activities/7472127476)
 * 📘 reading [“The Site Reliability Workbook: Practical Ways to Implement SRE”](https://www.goodreads.com/book/show/39687146-the-site-reliability-workbook)
-* 🍿 watching [“Bill Laurance &amp; The Untold Orchestra | EFG London Jazz Festival 2021”](https://youtu.be/W626yZi15js)
+* 🍿 watching [“Thinking in Hasura”](https://vimeo.com/727654292)
 * 🍺 drinking [Nitro Irish Stout](https://untappd.com/user/namoscato/checkin/1170774621)
