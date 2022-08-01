@@ -24,14 +24,14 @@
   },
   "homepage": "https://github.com/namoscato",
   "devDependencies": {
-    "@types/jest": "^28.1.4",
+    "@types/jest": "^28.1.6",
     "@types/mustache": "^4.1.3",
     "@types/node": "^14.18.20",
     "@types/xml2js": "^0.4.11",
     "axios-mock-adapter": "^1.21.1",
     "eslint-plugin-jest": "^26.5.3",
     "gts": "^3.1.0",
-    "jest": "^28.1.2",
+    "jest": "^28.1.3",
     "typescript": "^4.7.4"
   },
   "dependencies": {
