@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“GraphQL Observability with Sentry”](https://www.amoscato.com/journal/graphql-observability/)
-* 🎧 listening to [Neil Cowley Trio](https://www.last.fm/music/Neil+Cowley+Trio/_/Hubris+Major)
+* 🎧 listening to [Athletic Progression](https://www.last.fm/music/Athletic+Progression/_/AND1)
 * 🏃‍♂️ running [3.21 miles](https://www.strava.com/activities/7597772038)
 * 📘 reading [“The Site Reliability Workbook: Practical Ways to Implement SRE”](https://www.goodreads.com/book/show/39687146-the-site-reliability-workbook)
 * 🍿 watching [“Thinking in Hasura”](https://vimeo.com/727654292)
