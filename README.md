@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“GraphQL Observability with Sentry”](https://www.amoscato.com/journal/graphql-observability/)
-* 🎧 listening to [The Cinematic Orchestra](https://www.last.fm/music/The+Cinematic+Orchestra/_/Music+Box)
+* 🎧 listening to [George Winston](https://www.last.fm/music/George+Winston/_/Colors+%2F+Dance)
 * 🏃‍♂️ running [2.77 miles](https://www.strava.com/activities/7837571072)
 * 📘 reading [“The Site Reliability Workbook: Practical Ways to Implement SRE”](https://www.goodreads.com/book/show/39687146-the-site-reliability-workbook)
 * 🍿 watching [“Snarky Puppy - Empire Central (Extended Trailer)”](https://youtu.be/5mNSmxtWkQM)
