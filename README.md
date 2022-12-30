@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“Continuous Deployment Slack Notifications”](https://www.amoscato.com/journal/slack-deploy-notifications/)
-* 🎧 listening to [Snarky Puppy](https://www.last.fm/music/Snarky+Puppy/_/Cliroy)
+* 🎧 listening to [Chris Botti](https://www.last.fm/music/Chris+Botti/_/All+Would+Envy+(feat.+Shawn+Colvin))
 * 🏃‍♂️ running [2.77 miles](https://www.strava.com/activities/7837571072)
 * 📘 reading [“The Site Reliability Workbook: Practical Ways to Implement SRE”](https://www.goodreads.com/book/show/39687146-the-site-reliability-workbook)
 * 🍿 watching [“Snarky Puppy - Empire Central (Extended Trailer)”](https://youtu.be/5mNSmxtWkQM)
