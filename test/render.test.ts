@@ -13,8 +13,7 @@ mock.onGet('https://storage.amoscato.com/www/data/current.json').reply(200, {
   },
   book: {
     title: 'Domain-Driven Design Quickly',
-    url:
-      'https://www.goodreads.com/book/show/2558105.Domain_Driven_Design_Quickly',
+    url: 'https://www.goodreads.com/book/show/2558105.Domain_Driven_Design_Quickly',
   },
   drink: {
     name: 'Over the Moon',
