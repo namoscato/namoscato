@@ -4,7 +4,7 @@
 
 * ✏️ writing [“Continuous Deployment Slack Notifications”](https://www.amoscato.com/journal/slack-deploy-notifications/)
 * 🎧 listening to [Chris Botti](https://www.last.fm/music/Chris+Botti/_/All+Would+Envy+(feat.+Shawn+Colvin))
-* 🏃‍♂️ running [2.77 miles](https://www.strava.com/activities/7837571072)
+* 🏃‍♂️ running [2.6 miles](https://www.strava.com/activities/8346430599)
 * 📘 reading [“The Site Reliability Workbook: Practical Ways to Implement SRE”](https://www.goodreads.com/book/show/39687146-the-site-reliability-workbook)
 * 🍿 watching [“Snarky Puppy - Empire Central (Extended Trailer)”](https://youtu.be/5mNSmxtWkQM)
 * 🍺 drinking [Maple Breakfast Stout](https://untappd.com/user/namoscato/checkin/1235156585)
