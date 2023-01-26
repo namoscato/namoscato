@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“Continuous Deployment Slack Notifications”](https://www.amoscato.com/journal/slack-deploy-notifications/)
-* 🎧 listening to [Bill Laurance](https://www.last.fm/music/Bill+Laurance/_/Golden+Hour)
+* 🎧 listening to [Neil Cowley Trio](https://www.last.fm/music/Neil+Cowley+Trio/_/Kneel+Down)
 * 🏃‍♂️ running [2.3 miles](https://www.strava.com/activities/8373777263)
 * 📘 reading [“The Site Reliability Workbook: Practical Ways to Implement SRE”](https://www.goodreads.com/book/show/39687146-the-site-reliability-workbook)
 * 🍿 watching [“Snarky Puppy - Empire Central (Extended Trailer)”](https://youtu.be/5mNSmxtWkQM)
