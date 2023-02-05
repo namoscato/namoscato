@@ -7,4 +7,4 @@
 * 🏃‍♂️ running [2.3 miles](https://www.strava.com/activities/8373777263)
 * 📘 reading [“The Staff Engineer&#39;s Path”](https://www.goodreads.com/book/show/59694859-the-staff-engineer-s-path)
 * 🍿 watching [“Snarky Puppy - Empire Central (Extended Trailer)”](https://youtu.be/5mNSmxtWkQM)
-* 🍺 drinking [Bane of Existence](https://untappd.com/user/namoscato/checkin/1241942857)
+* 🍺 drinking [Wood Burner Imperial Porter](https://untappd.com/user/namoscato/checkin/1245812149)
