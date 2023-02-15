@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“Continuous Deployment Slack Notifications”](https://www.amoscato.com/journal/slack-deploy-notifications/)
-* 🎧 listening to [Snarky Puppy](https://www.last.fm/music/Snarky+Puppy/_/Take+It!+(feat.+Bernard+Wright))
+* 🎧 listening to [Snarky Puppy](https://www.last.fm/music/Snarky+Puppy/_/Belmont)
 * 🏃‍♂️ running [2.3 miles](https://www.strava.com/activities/8373777263)
 * 📘 reading [“The Staff Engineer&#39;s Path”](https://www.goodreads.com/book/show/59694859-the-staff-engineer-s-path)
 * 🍿 watching [“Snarky Puppy - Empire Central (Extended Trailer)”](https://youtu.be/5mNSmxtWkQM)
