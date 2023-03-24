@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“Continuous Deployment Slack Notifications”](https://www.amoscato.com/journal/slack-deploy-notifications/)
-* 🎧 listening to [House of Waters](https://www.last.fm/music/House+of+Waters/_/Renew)
+* 🎧 listening to [House of Waters](https://www.last.fm/music/House+of+Waters/_/Kites)
 * 🏃‍♂️ running [2.5 miles](https://www.strava.com/activities/8711705578)
 * 📘 reading [“The Staff Engineer&#39;s Path”](https://www.goodreads.com/book/show/59694859-the-staff-engineer-s-path)
 * 🍿 watching [“React.js: The Documentary”](https://youtu.be/8pDqJVdNa44)
