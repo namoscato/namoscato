@@ -4,7 +4,7 @@
 
 * ✏️ writing [“Continuous Deployment Slack Notifications”](https://www.amoscato.com/journal/slack-deploy-notifications/)
 * 🎧 listening to [House of Waters](https://www.last.fm/music/House+of+Waters/_/La+Semana)
-* 🏃‍♂️ running [2.23 miles](https://www.strava.com/activities/9124056809)
+* 🏃‍♂️ running [3.23 miles](https://www.strava.com/activities/9240353792)
 * 📘 reading [“The Staff Engineer&#39;s Path”](https://www.goodreads.com/book/show/59694859-the-staff-engineer-s-path)
 * 🍿 watching [“Origin Story: How React.js Changed the Web Forever - A Documentary”](https://youtu.be/8pDqJVdNa44)
 * 🍺 drinking [Bluff](https://untappd.com/user/namoscato/checkin/1275064926)
