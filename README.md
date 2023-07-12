@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“Continuous Deployment Slack Notifications”](https://www.amoscato.com/journal/slack-deploy-notifications/)
-* 🎧 listening to [Grace Kelly](https://www.last.fm/music/Grace+Kelly/_/All+That+I+Need)
+* 🎧 listening to [Bill Laurance](https://www.last.fm/music/Bill+Laurance/_/The+Rush)
 * 🏃‍♂️ running [3.23 miles](https://www.strava.com/activities/9240353792)
 * 📘 reading [“The Staff Engineer&#39;s Path”](https://www.goodreads.com/book/show/59694859-the-staff-engineer-s-path)
 * 🍿 watching [“Origin Story: How A Small Team of Developers Created React.js at Facebook”](https://youtu.be/8pDqJVdNa44)
