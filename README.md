@@ -4,7 +4,7 @@
 
 * ✏️ writing [“Continuous Deployment Slack Notifications”](https://www.amoscato.com/journal/slack-deploy-notifications/)
 * 🎧 listening to [Gerald Clayton](https://www.last.fm/music/Gerald+Clayton/_/Bond:+The+Cast)
-* 🏃‍♂️ running [2.85 miles](https://www.strava.com/activities/9644465917)
+* 🏃‍♂️ running [2.91 miles](https://www.strava.com/activities/9664913268)
 * 📘 reading [“The Staff Engineer&#39;s Path”](https://www.goodreads.com/book/show/59694859-the-staff-engineer-s-path)
 * 🍿 watching [“Origin Story: How A Small Team of Developers Created React.js at Facebook”](https://youtu.be/8pDqJVdNa44)
 * 🍺 drinking [Perpetual IPA](https://untappd.com/user/namoscato/checkin/1285909528)
