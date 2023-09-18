@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“Continuous Deployment Slack Notifications”](https://www.amoscato.com/journal/slack-deploy-notifications/)
-* 🎧 listening to [Busty and the Bass](https://www.last.fm/music/Busty+and+the+Bass/_/Free+Shoes)
+* 🎧 listening to [Busty and the Bass](https://www.last.fm/music/Busty+and+the+Bass/_/Things+Change)
 * 🏃‍♂️ running [2.84 miles](https://www.strava.com/activities/9735600086)
 * 📘 reading [“The Staff Engineer&#39;s Path”](https://www.goodreads.com/book/show/59694859-the-staff-engineer-s-path)
 * 🍿 watching [“Origin Story: How A Small Team of Developers Created React.js at Facebook”](https://youtu.be/8pDqJVdNa44)
