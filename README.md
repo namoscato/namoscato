@@ -4,7 +4,7 @@
 
 * ✏️ writing [“Continuous Deployment Slack Notifications”](https://www.amoscato.com/journal/slack-deploy-notifications/)
 * 🎧 listening to [Chris Botti](https://www.last.fm/music/Chris+Botti/_/Lisa)
-* 🏃‍♂️ running [2.29 miles](https://www.strava.com/activities/9996046779)
+* 🏃‍♂️ running [3.08 miles](https://www.strava.com/activities/10165161885)
 * 📘 reading [“The Staff Engineer&#39;s Path”](https://www.goodreads.com/book/show/59694859-the-staff-engineer-s-path)
 * 🍿 watching [“How A Small Team of Developers Created React at Facebook | React.js: The Documentary”](https://youtu.be/8pDqJVdNa44)
 * 🍺 drinking [Perpetual IPA](https://untappd.com/user/namoscato/checkin/1285909528)
