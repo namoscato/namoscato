@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“Continuous Deployment Slack Notifications”](https://www.amoscato.com/journal/slack-deploy-notifications/)
-* 🎧 listening to [Vince Guaraldi Quintet](https://www.last.fm/music/Vince+Guaraldi+Quintet/_/Peppermint+Patty)
+* 🎧 listening to [Vince Guaraldi Quintet](https://www.last.fm/music/Vince+Guaraldi+Quintet/_/Thanksgiving+Theme+(3rd+Reprise))
 * 🏃‍♂️ running [3.08 miles](https://www.strava.com/activities/10165161885)
 * 📘 reading [“The Staff Engineer&#39;s Path”](https://www.goodreads.com/book/show/59694859-the-staff-engineer-s-path)
 * 🍿 watching [“How A Small Team of Developers Created React at Facebook | React.js: The Documentary”](https://youtu.be/8pDqJVdNa44)
