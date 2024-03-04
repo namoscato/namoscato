@@ -4,6 +4,7 @@
 
 * ✏️ writing [“Continuous Deployment Slack Notifications”](https://www.amoscato.com/journal/slack-deploy-notifications/)
 * 🎧 listening to [The Dip](https://www.last.fm/music/The+Dip/_/State+Line)
-* 🏃‍♂️ running [2.2 miles](https://www.strava.com/activities/10866609170)
+* 🏃‍♂️ running [2 miles](https://www.strava.com/activities/10887063707)
+* 📘 reading [“The Cold Start Problem: How to Start and Scale Network Effects”](https://www.goodreads.com/book/show/55338968-the-cold-start-problem)
 * 🍿 watching [“How A Small Team of Developers Created React at Facebook | React.js: The Documentary”](https://youtu.be/8pDqJVdNa44)
 * 🍺 drinking [Dead Guy Ale](https://untappd.com/user/namoscato/checkin/1356883986)
