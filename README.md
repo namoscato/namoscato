@@ -3,8 +3,8 @@
 #### CURRENTLY —
 
 * ✏️ writing [“Continuous Deployment Slack Notifications”](https://www.amoscato.com/journal/slack-deploy-notifications/)
-* 🎧 listening to [Nine Sparks Riots](https://www.last.fm/music/Nine+Sparks+Riots/_/Woods)
+* 🎧 listening to [Bill Laurance](https://www.last.fm/music/Bill+Laurance/_/Tricks)
 * 🏃‍♂️ running [1.49 miles](https://www.strava.com/activities/10963378770)
 * 📘 reading [“The Cold Start Problem: How to Start and Scale Network Effects”](https://www.goodreads.com/book/show/55338968-the-cold-start-problem)
-* 🍿 watching [“How A Small Team of Developers Created React at Facebook | React.js: The Documentary”](https://youtu.be/8pDqJVdNa44)
+* 🍿 watching [“Bill Laurance &amp; The Untold Orchestra - BLOOM (Music Video)”](https://youtu.be/aOisxXhsXUk)
 * 🍺 drinking [Dead Guy Ale](https://untappd.com/user/namoscato/checkin/1356883986)
