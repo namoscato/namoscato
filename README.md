@@ -6,5 +6,5 @@
 * 🎧 listening to [Bill Laurance](https://www.last.fm/music/Bill+Laurance/_/Tricks)
 * 🏃‍♂️ running [2 miles](https://www.strava.com/activities/10984550559)
 * 📘 reading [“The Cold Start Problem: How to Start and Scale Network Effects”](https://www.goodreads.com/book/show/55338968-the-cold-start-problem)
-* 🍿 watching [“Bill Laurance &amp; The Untold Orchestra - BLOOM (Music Video)”](https://youtu.be/aOisxXhsXUk)
+* 🍿 watching [“Bill Laurance &amp; The Untold Orchestra - Bloom (Music Video)”](https://youtu.be/aOisxXhsXUk)
 * 🍺 drinking [Dead Guy Ale](https://untappd.com/user/namoscato/checkin/1356883986)
