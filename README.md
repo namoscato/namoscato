@@ -7,4 +7,4 @@
 * 🏃‍♂️ running [2.37 miles](https://www.strava.com/activities/11860712722)
 * 📘 reading [“The Cold Start Problem: How to Start and Scale Network Effects”](https://www.goodreads.com/book/show/55338968-the-cold-start-problem)
 * 🍿 watching [“Bill Laurance &amp; The Untold Orchestra - Bloom (Official Music Video)”](https://youtu.be/aOisxXhsXUk)
-* 🍺 drinking [Jen’s](https://untappd.com/user/namoscato/checkin/1397727546)
+* 🍺 drinking [Classic Kickback Lemon Lager](https://untappd.com/user/namoscato/checkin/1398844563)
