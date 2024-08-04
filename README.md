@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“Continuous Deployment Slack Notifications”](https://www.amoscato.com/journal/slack-deploy-notifications/)
-* 🎧 listening to [Sade Mangiaracina](https://www.last.fm/music/Sade+Mangiaracina/_/Rosa)
+* 🎧 listening to [Jeff Lorber Fusion](https://www.last.fm/music/Jeff+Lorber+Fusion/_/Black+Ice)
 * 🏃‍♂️ running [2.39 miles](https://www.strava.com/activities/12025782062)
 * 📘 reading [“The Cold Start Problem: How to Start and Scale Network Effects”](https://www.goodreads.com/book/show/55338968-the-cold-start-problem)
 * 🍿 watching [“Bill Laurance &amp; The Untold Orchestra - Bloom (Official Music Video)”](https://youtu.be/aOisxXhsXUk)
