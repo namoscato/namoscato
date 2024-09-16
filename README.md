@@ -4,7 +4,7 @@
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
 * 🎧 listening to [Elizabeth Mitchell](https://www.last.fm/music/Elizabeth+Mitchell/_/Ladybug+Picnic)
-* 🏃‍♂️ running [2 miles](https://www.strava.com/activities/12398119010)
+* 🏃‍♂️ running [2 miles](https://www.strava.com/activities/12422797184)
 * 📘 reading [“The Cold Start Problem: How to Start and Scale Network Effects”](https://www.goodreads.com/book/show/55338968-the-cold-start-problem)
 * 🍿 watching [“Bill Laurance &amp; The Untold Orchestra - Bloom (Official Music Video)”](https://youtu.be/aOisxXhsXUk)
 * 🍺 drinking [Milk Stout](https://untappd.com/user/namoscato/checkin/1400962428)
