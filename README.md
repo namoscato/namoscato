@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Raffi](https://www.last.fm/music/Raffi/_/Baa+Baa+Black+Sheep)
+* 🎧 listening to [Idina Menzel](https://www.last.fm/music/Idina+Menzel/_/Into+the+Unknown)
 * 🏃‍♂️ running [2 miles](https://www.strava.com/activities/12482133079)
 * 📘 reading [“The Cold Start Problem: How to Start and Scale Network Effects”](https://www.goodreads.com/book/show/55338968-the-cold-start-problem)
 * 🍿 watching [“Bill Laurance &amp; The Untold Orchestra - Bloom (Official Music Video)”](https://youtu.be/aOisxXhsXUk)
