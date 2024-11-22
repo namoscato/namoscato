@@ -4,7 +4,7 @@
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
 * 🎧 listening to [Steve Reich](https://www.last.fm/music/Steve+Reich/_/Music+for+18+Musicians:+Section+IIIA)
-* 🏃‍♂️ running [2 miles](https://www.strava.com/activities/12935357795)
+* 🏃‍♂️ running [2 miles](https://www.strava.com/activities/12957199057)
 * 📘 reading [“The Cold Start Problem: How to Start and Scale Network Effects”](https://www.goodreads.com/book/show/55338968-the-cold-start-problem)
 * 🍿 watching [“Bill Laurance &amp; The Untold Orchestra - Bloom (Official Music Video)”](https://youtu.be/aOisxXhsXUk)
 * 🍺 drinking [Is Butter A Carb?](https://untappd.com/user/namoscato/checkin/1431045223)
