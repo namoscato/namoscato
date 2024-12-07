@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Edvard Grieg](https://www.last.fm/music/Edvard+Grieg/_/Peer+Gynt-Suite+Nr.+1,+Op.+46:+I.+Morgenstemning+(Morning+Mood))
+* 🎧 listening to [Edvard Grieg](https://www.last.fm/music/Edvard+Grieg/_/Piano+Concerto+in+A+Minor,+Op.+16:+I.+Allegro+molto+moderato)
 * 🏃‍♂️ running [2 miles](https://www.strava.com/activities/12986091294)
 * 📘 reading [“The Cold Start Problem: How to Start and Scale Network Effects”](https://www.goodreads.com/book/show/55338968-the-cold-start-problem)
 * 🍿 watching [“Bill Laurance &amp; The Untold Orchestra - Bloom (Official Music Video)”](https://youtu.be/aOisxXhsXUk)
