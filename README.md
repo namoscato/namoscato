@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [George Winston](https://www.last.fm/music/George+Winston/_/Rainsong)
+* 🎧 listening to [Spyro Gyra](https://www.last.fm/music/Spyro+Gyra/_/It+Won%27t+Feel+Like+Christmas+(feat.+Christine+Ebersole))
 * 🏃‍♂️ running [2 miles](https://www.strava.com/activities/13077787818)
 * 📘 reading [“The Cold Start Problem: How to Start and Scale Network Effects”](https://www.goodreads.com/book/show/55338968-the-cold-start-problem)
 * 🍿 watching [“Bill Laurance &amp; The Untold Orchestra - Bloom (Official Music Video)”](https://youtu.be/aOisxXhsXUk)
