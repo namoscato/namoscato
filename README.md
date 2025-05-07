@@ -7,4 +7,4 @@
 * 🏃‍♂️ running [2 miles](https://www.strava.com/activities/13297779396)
 * 📘 reading [“The Ministry of Time”](https://www.goodreads.com/book/show/199798179-the-ministry-of-time)
 * 🍿 watching [“Bill Laurance &amp; The Untold Orchestra - Bloom (Official Music Video)”](https://youtu.be/aOisxXhsXUk)
-* 🍺 drinking [Ugly Sweater: Milk Stout](https://untappd.com/user/namoscato/checkin/1476861319)
+* 🍺 drinking [Peanut Budder One](https://untappd.com/user/namoscato/checkin/1477154225)
