@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Frank Sinatra](https://www.last.fm/music/Frank+Sinatra/_/Fly+Me+to+the+Moon)
+* 🎧 listening to [Stacey Kent](https://www.last.fm/music/Stacey+Kent/_/Shall+We+Dance%3F)
 * 🏃‍♂️ running [2 miles](https://www.strava.com/activities/13297779396)
 * 📘 reading [“The Ministry of Time”](https://www.goodreads.com/book/show/199798179-the-ministry-of-time)
 * 🍿 watching [“Bill Laurance &amp; The Untold Orchestra - Bloom (Official Music Video)”](https://youtu.be/aOisxXhsXUk)
