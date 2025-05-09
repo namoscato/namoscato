@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Dave Brubeck](https://www.last.fm/music/Dave+Brubeck/_/Besame+Mucho)
+* 🎧 listening to [Edvard Grieg](https://www.last.fm/music/Edvard+Grieg/_/Peer+Gynt-Suite+Nr.+1,+Op.+46:+I.+Morgenstemning+(Morning+Mood))
 * 🏃‍♂️ running [2 miles](https://www.strava.com/activities/13297779396)
 * 📘 reading [“The Ministry of Time”](https://www.goodreads.com/book/show/199798179-the-ministry-of-time)
 * 🍿 watching [“Bill Laurance &amp; The Untold Orchestra - Bloom (Official Music Video)”](https://youtu.be/aOisxXhsXUk)
