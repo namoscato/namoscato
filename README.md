@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Yellowjackets](https://www.last.fm/music/Yellowjackets/_/The+Dream+-+Live+At+The+Roxy,+1991)
+* 🎧 listening to [Raffi](https://www.last.fm/music/Raffi/_/Baby+Beluga)
 * 🏃‍♂️ running [2 miles](https://www.strava.com/activities/13297779396)
 * 📘 reading [“The Ministry of Time”](https://www.goodreads.com/book/show/199798179-the-ministry-of-time)
 * 🍿 watching [“Bill Laurance &amp; The Untold Orchestra - Bloom (Official Music Video)”](https://youtu.be/aOisxXhsXUk)
