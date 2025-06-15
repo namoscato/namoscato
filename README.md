@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Chris Botti](https://www.last.fm/music/Chris+Botti/_/My+Romance)
+* 🎧 listening to [Danny Elfman](https://www.last.fm/music/Danny+Elfman/_/Prologue+-+From+%22Hulk%22)
 * 🏃‍♂️ running [3.03 miles](https://www.strava.com/activities/14774624716)
 * 📘 reading [“The Ministry of Time”](https://www.goodreads.com/book/show/199798179-the-ministry-of-time)
 * 🍿 watching [“Bill Laurance &amp; The Untold Orchestra - Bloom (Official Music Video)”](https://youtu.be/aOisxXhsXUk)
