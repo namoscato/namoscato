@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Snarky Puppy](https://www.last.fm/music/Snarky+Puppy/_/Flight+-+Live+From+Dordrecht,+Het+Energiehuis+%2F+2014)
+* 🎧 listening to [Bob Reynolds](https://www.last.fm/music/Bob+Reynolds/_/Runway)
 * 🏃‍♂️ running [3 miles](https://www.strava.com/activities/14836766116)
 * 📘 reading [“The Ministry of Time”](https://www.goodreads.com/book/show/199798179-the-ministry-of-time)
 * 🍿 watching [“Bill Laurance &amp; The Untold Orchestra - Bloom (Official Music Video)”](https://youtu.be/aOisxXhsXUk)
