@@ -6,5 +6,5 @@
 * 🎧 listening to [Gopi Sundar](https://www.last.fm/music/Gopi+Sundar/_/Maangalyam+-+From+%22Bangalore+Days%22)
 * 🏃‍♂️ running [3 miles](https://www.strava.com/activities/14836766116)
 * 📘 reading [“The Ministry of Time”](https://www.goodreads.com/book/show/199798179-the-ministry-of-time)
-* 🍿 watching [“Bill Laurance &amp; The Untold Orchestra - Bloom (Official Music Video)”](https://youtu.be/aOisxXhsXUk)
+* 🍿 watching [“Andrej Karpathy: Software Is Changing (Again)”](https://youtu.be/LCEmiRjPEtQ)
 * 🍺 drinking [El Fortunado](https://untappd.com/user/namoscato/checkin/1478473470)
