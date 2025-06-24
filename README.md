@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Bill Laurance](https://www.last.fm/music/Bill+Laurance/_/Shots)
+* 🎧 listening to [Taylor Eigsti](https://www.last.fm/music/Taylor+Eigsti/_/Tree+Fell)
 * 🏃‍♂️ running [3 miles](https://www.strava.com/activities/14836766116)
 * 📘 reading [“The Ministry of Time”](https://www.goodreads.com/book/show/199798179-the-ministry-of-time)
 * 🍿 watching [“Andrej Karpathy: Software Is Changing (Again)”](https://youtu.be/LCEmiRjPEtQ)
