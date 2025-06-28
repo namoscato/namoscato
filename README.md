@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Seals And Crofts](https://www.last.fm/music/Seals+And+Crofts/_/Summer+Breeze)
+* 🎧 listening to [Chicago](https://www.last.fm/music/Chicago/_/If+You+Leave+Me+Now)
 * 🏃‍♂️ running [3.06 miles](https://www.strava.com/activities/14930380950)
 * 📘 reading [“The Ministry of Time”](https://www.goodreads.com/book/show/199798179-the-ministry-of-time)
 * 🍿 watching [“Andrej Karpathy: Software Is Changing (Again)”](https://youtu.be/LCEmiRjPEtQ)
