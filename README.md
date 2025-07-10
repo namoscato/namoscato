@@ -4,7 +4,7 @@
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
 * 🎧 listening to [House of Waters](https://www.last.fm/music/House+of+Waters/_/In+Waves)
-* 🏃‍♂️ running [2.13 miles](https://www.strava.com/activities/15018889421)
+* 🏃‍♂️ running [2.86 miles](https://www.strava.com/activities/15066441983)
 * 📘 reading [“The Ministry of Time”](https://www.goodreads.com/book/show/199798179-the-ministry-of-time)
 * 🍿 watching [“Andrej Karpathy: Software Is Changing (Again)”](https://youtu.be/LCEmiRjPEtQ)
 * 🍺 drinking [El Fortunado](https://untappd.com/user/namoscato/checkin/1478473470)
