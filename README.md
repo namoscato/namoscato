@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [The Blues Brothers](https://www.last.fm/music/The+Blues+Brothers/_/Soul+Man+-+Live)
+* 🎧 listening to [Chicago](https://www.last.fm/music/Chicago/_/Saturday+in+the+Park+-+2002+Remaster)
 * 🏃‍♂️ running [2.86 miles](https://www.strava.com/activities/15066441983)
 * 📘 reading [“The Ministry of Time”](https://www.goodreads.com/book/show/199798179-the-ministry-of-time)
 * 🍿 watching [“Andrej Karpathy: Software Is Changing (Again)”](https://youtu.be/LCEmiRjPEtQ)
