@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [King Harvest](https://www.last.fm/music/King+Harvest/_/Dancing+In+The+Moonlight)
+* 🎧 listening to [Chicago](https://www.last.fm/music/Chicago/_/(I%27ve+Been)+Searchin%27+so+Long+-+2002+Remaster)
 * 🏃‍♂️ running [2.18 miles](https://www.strava.com/activities/15153866625)
 * 📘 reading [“The Ministry of Time”](https://www.goodreads.com/book/show/199798179-the-ministry-of-time)
 * 🍿 watching [“Andrej Karpathy: Software Is Changing (Again)”](https://youtu.be/LCEmiRjPEtQ)
