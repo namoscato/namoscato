@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Ben Clifton](https://www.last.fm/music/Ben+Clifton/_/Lost+on+Maple)
+* 🎧 listening to [Ben Clifton](https://www.last.fm/music/Ben+Clifton/_/Return+to+Sanity)
 * 🏃‍♂️ running [2.78 miles](https://www.strava.com/activities/15218697576)
 * 📘 reading [“The Ministry of Time”](https://www.goodreads.com/book/show/199798179-the-ministry-of-time)
 * 🍿 watching [“Andrej Karpathy: Software Is Changing (Again)”](https://youtu.be/LCEmiRjPEtQ)
