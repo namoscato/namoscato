@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Kurt Rosenwinkel](https://www.last.fm/music/Kurt+Rosenwinkel/_/Reflections)
+* 🎧 listening to [Kurt Rosenwinkel](https://www.last.fm/music/Kurt+Rosenwinkel/_/You%27ve+changed)
 * 🏃‍♂️ running [2.78 miles](https://www.strava.com/activities/15218697576)
 * 📘 reading [“The Ministry of Time”](https://www.goodreads.com/book/show/199798179-the-ministry-of-time)
 * 🍿 watching [“Andrej Karpathy: Software Is Changing (Again)”](https://youtu.be/LCEmiRjPEtQ)
