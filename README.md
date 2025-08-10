@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Jamie Cullum](https://www.last.fm/music/Jamie+Cullum/_/Out+of+This+World)
+* 🎧 listening to [Norah Jones](https://www.last.fm/music/Norah+Jones/_/Those+Sweet+Words)
 * 🏃‍♂️ running [2.27 miles](https://www.strava.com/activities/15410332681)
 * 📘 reading [“The Ministry of Time”](https://www.goodreads.com/book/show/199798179-the-ministry-of-time)
 * 🍿 watching [“Andrej Karpathy: Software Is Changing (Again)”](https://youtu.be/LCEmiRjPEtQ)
