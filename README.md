@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Blippi](https://www.last.fm/music/Blippi/_/The+Garbage+Truck+Song+-+Sesame+Street+Version)
+* 🎧 listening to [Bill Laurance](https://www.last.fm/music/Bill+Laurance/_/Mantra)
 * 🏃‍♂️ running [2.93 miles](https://www.strava.com/activities/15430544156)
 * 📘 reading [“The Ministry of Time”](https://www.goodreads.com/book/show/199798179-the-ministry-of-time)
 * 🍿 watching [“Andrej Karpathy: Software Is Changing (Again)”](https://youtu.be/LCEmiRjPEtQ)
