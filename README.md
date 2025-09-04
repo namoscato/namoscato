@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Explosions in the Sky](https://www.last.fm/music/Explosions+in+the+Sky/_/Memorial+-+Remastered)
+* 🎧 listening to [Chris Botti](https://www.last.fm/music/Chris+Botti/_/Someone+to+Watch+over+Me+-+Live)
 * 🏃‍♂️ running [2.11 miles](https://www.strava.com/activities/15489640401)
 * 📘 reading [“The Ministry of Time”](https://www.goodreads.com/book/show/199798179-the-ministry-of-time)
 * 🍿 watching [“Andrej Karpathy: Software Is Changing (Again)”](https://youtu.be/LCEmiRjPEtQ)
