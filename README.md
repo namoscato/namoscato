@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Busty and the Bass](https://www.last.fm/music/Busty+and+the+Bass/_/Eddie)
+* 🎧 listening to [Chris Botti](https://www.last.fm/music/Chris+Botti/_/What%27ll+I+Do%3F)
 * 🏃‍♂️ running [2.11 miles](https://www.strava.com/activities/15489640401)
 * 📘 reading [“The Ministry of Time”](https://www.goodreads.com/book/show/199798179-the-ministry-of-time)
 * 🍿 watching [“Andrej Karpathy: Software Is Changing (Again)”](https://youtu.be/LCEmiRjPEtQ)
