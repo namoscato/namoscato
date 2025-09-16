@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Nathan Lane](https://www.last.fm/music/Nathan+Lane/_/Hakuna+Matata)
+* 🎧 listening to [Josh Gad](https://www.last.fm/music/Josh+Gad/_/When+I+Am+Older)
 * 🏃‍♂️ running [1.9 miles](https://www.strava.com/activities/15796710344)
 * 📘 reading [“The Ministry of Time”](https://www.goodreads.com/book/show/199798179-the-ministry-of-time)
 * 🍿 watching [“Andrej Karpathy: Software Is Changing (Again)”](https://youtu.be/LCEmiRjPEtQ)
