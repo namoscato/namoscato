@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Miles Davis](https://www.last.fm/music/Miles+Davis/_/Blue+in+Green+(feat.+John+Coltrane+&+Bill+Evans))
+* 🎧 listening to [Henry Jackman](https://www.last.fm/music/Henry+Jackman/_/Zemo)
 * 🏃‍♂️ running [1.9 miles](https://www.strava.com/activities/15796710344)
 * 📘 reading [“The Ministry of Time”](https://www.goodreads.com/book/show/199798179-the-ministry-of-time)
 * 🍿 watching [“Andrej Karpathy: Software Is Changing (Again)”](https://youtu.be/LCEmiRjPEtQ)
