@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [True Roots Blues](https://www.last.fm/music/True+Roots+Blues/_/After+the+Crowd)
+* 🎧 listening to [Snarky Puppy](https://www.last.fm/music/Snarky+Puppy/_/Waves+Upon+Waves)
 * 🏃‍♂️ running [1.9 miles](https://www.strava.com/activities/15796710344)
 * 📘 reading [“The Ministry of Time”](https://www.goodreads.com/book/show/199798179-the-ministry-of-time)
 * 🍿 watching [“Andrej Karpathy: Software Is Changing (Again)”](https://youtu.be/LCEmiRjPEtQ)
