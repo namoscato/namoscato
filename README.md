@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Neil Cowley Trio](https://www.last.fm/music/Neil+Cowley+Trio/_/Garden+of+Love)
+* 🎧 listening to [The Beatles](https://www.last.fm/music/The+Beatles/_/Let+It+Be+-+Remastered+2009)
 * 🏃‍♂️ running [1.9 miles](https://www.strava.com/activities/15796710344)
 * 📘 reading [“The Ministry of Time”](https://www.goodreads.com/book/show/199798179-the-ministry-of-time)
 * 🍿 watching [“Andrej Karpathy: Software Is Changing (Again)”](https://youtu.be/LCEmiRjPEtQ)
