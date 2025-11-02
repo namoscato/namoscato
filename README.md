@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Bongo Cat](https://www.last.fm/music/Bongo+Cat/_/Golden)
+* 🎧 listening to [Super Simple Songs](https://www.last.fm/music/Super+Simple+Songs/_/Old+MacDonald+Had+A+Farm)
 * 🏃‍♂️ running [1.9 miles](https://www.strava.com/activities/15796710344)
 * 📘 reading [“The Ministry of Time”](https://www.goodreads.com/book/show/199798179-the-ministry-of-time)
 * 🍿 watching [“Andrej Karpathy: Software Is Changing (Again)”](https://youtu.be/LCEmiRjPEtQ)
