@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Luca Sestak](https://www.last.fm/music/Luca+Sestak/_/Everyone%E2%80%99s+Busy)
+* 🎧 listening to [Shoshana Bean](https://www.last.fm/music/Shoshana+Bean/_/Not+Even+the+King+(Reprise))
 * 🏃‍♂️ running [3.16 miles](https://www.strava.com/activities/16332665824)
 * 📘 reading [“The Ministry of Time”](https://www.goodreads.com/book/show/199798179-the-ministry-of-time)
 * 🍿 watching [“Andrej Karpathy: Software Is Changing (Again)”](https://youtu.be/LCEmiRjPEtQ)
