@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Maleah Joi Moon](https://www.last.fm/music/Maleah+Joi+Moon/_/Unthinkable+(I%E2%80%99m+Ready))
+* 🎧 listening to [Edward Sharpe &amp; The Magnetic Zeros](https://www.last.fm/music/Edward+Sharpe+&+The+Magnetic+Zeros/_/Home)
 * 🏃‍♂️ running [3.16 miles](https://www.strava.com/activities/16332665824)
 * 📘 reading [“The Ministry of Time”](https://www.goodreads.com/book/show/199798179-the-ministry-of-time)
 * 🍿 watching [“Andrej Karpathy: Software Is Changing (Again)”](https://youtu.be/LCEmiRjPEtQ)
