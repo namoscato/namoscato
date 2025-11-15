@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Auburn University Bands](https://www.last.fm/music/Auburn+University+Bands/_/Pregame+Fanfare+%2F+War+Eagle+%2F+Glory)
+* 🎧 listening to [The University of Illinois Marching Illini](https://www.last.fm/music/The+University+of+Illinois+Marching+Illini/_/Illinois+Loyalty+-+Illinois+Fighting+Illini+-+Live)
 * 🏃‍♂️ running [3.16 miles](https://www.strava.com/activities/16332665824)
 * 📘 reading [“The Ministry of Time”](https://www.goodreads.com/book/show/199798179-the-ministry-of-time)
 * 🍿 watching [“Andrej Karpathy: Software Is Changing (Again)”](https://youtu.be/LCEmiRjPEtQ)
