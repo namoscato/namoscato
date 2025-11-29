@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [George Balanchine&#39;s The Nutcracker](https://www.last.fm/music/George+Balanchine%27s+The+Nutcracker/_/Act+I:+Grandfather%27s+Dance)
+* 🎧 listening to [George Balanchine&#39;s The Nutcracker](https://www.last.fm/music/George+Balanchine%27s+The+Nutcracker/_/Act+I:+Marie%27s+Dream)
 * 🏃‍♂️ running [3.16 miles](https://www.strava.com/activities/16332665824)
 * 📘 reading [“The Ministry of Time”](https://www.goodreads.com/book/show/199798179-the-ministry-of-time)
 * 🍿 watching [“Andrej Karpathy: Software Is Changing (Again)”](https://youtu.be/LCEmiRjPEtQ)
