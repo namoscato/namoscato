@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Boyz II Men](https://www.last.fm/music/Boyz+II+Men/_/Share+Love)
+* 🎧 listening to [Alvin &amp; The Chipmunks](https://www.last.fm/music/Alvin+&+The+Chipmunks/_/Jingle+Bells)
 * 🏃‍♂️ running [3.16 miles](https://www.strava.com/activities/16332665824)
 * 📘 reading [“The Ministry of Time”](https://www.goodreads.com/book/show/199798179-the-ministry-of-time)
 * 🍿 watching [“Andrej Karpathy: Software Is Changing (Again)”](https://youtu.be/LCEmiRjPEtQ)
