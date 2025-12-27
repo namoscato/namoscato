@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Nat King Cole](https://www.last.fm/music/Nat+King+Cole/_/The+Christmas+Song+(Merry+Christmas+To+You))
+* 🎧 listening to [Trans-Siberian Orchestra](https://www.last.fm/music/Trans-Siberian+Orchestra/_/Wizards+In+Winter+-+Instrumental)
 * 🏃‍♂️ running [3.16 miles](https://www.strava.com/activities/16332665824)
 * 📘 reading [“The Ministry of Time”](https://www.goodreads.com/book/show/199798179-the-ministry-of-time)
 * 🍿 watching [“Andrej Karpathy: Software Is Changing (Again)”](https://youtu.be/LCEmiRjPEtQ)
