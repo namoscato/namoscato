@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Henry Jackman](https://www.last.fm/music/Henry+Jackman/_/An+Old+Friend)
+* 🎧 listening to [Miles Davis](https://www.last.fm/music/Miles+Davis/_/Old+Folks+(feat.+Hank+Mobley,+Wynton+Kelly,+Paul+Chambers+&+Jimmy+Cobb))
 * 🏃‍♂️ running [3.16 miles](https://www.strava.com/activities/16332665824)
 * 📘 reading [“Frictionless: 7 Steps to Remove Barriers, Unlock Value, and Outpace Your Competition in the AI Era”](https://www.goodreads.com/book/show/243883904-frictionless)
 * 🍿 watching [“Andrej Karpathy: Software Is Changing (Again)”](https://youtu.be/LCEmiRjPEtQ)
