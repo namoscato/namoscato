@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Busty and the Bass](https://www.last.fm/music/Busty+and+the+Bass/_/Common+Ground)
+* 🎧 listening to [Marvel’s Spidey and His Amazing Friends - Cast](https://www.last.fm/music/Marvel%E2%80%99s+Spidey+and+His+Amazing+Friends+-+Cast/_/Watch+Out)
 * 🏃‍♂️ running [2 miles](https://www.strava.com/activities/17126956334)
 * 📘 reading [“Frictionless: 7 Steps to Remove Barriers, Unlock Value, and Outpace Your Competition in the AI Era”](https://www.goodreads.com/book/show/243883904-frictionless)
 * 🍿 watching [“Andrej Karpathy: Software Is Changing (Again)”](https://youtu.be/LCEmiRjPEtQ)
