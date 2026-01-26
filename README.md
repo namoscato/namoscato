@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Bluey](https://www.last.fm/music/Bluey/_/Here+Come+the+Grannies!)
+* 🎧 listening to [Mickey Mouse](https://www.last.fm/music/Mickey+Mouse/_/Mickey%27s+Countdown)
 * 🏃‍♂️ running [2 miles](https://www.strava.com/activities/17126956334)
 * 📘 reading [“Frictionless: 7 Steps to Remove Barriers, Unlock Value, and Outpace Your Competition in the AI Era”](https://www.goodreads.com/book/show/243883904-frictionless)
 * 🍿 watching [“Andrej Karpathy: Software Is Changing (Again)”](https://youtu.be/LCEmiRjPEtQ)
