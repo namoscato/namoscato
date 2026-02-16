@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Mister Rogers](https://www.last.fm/music/Mister+Rogers/_/Let%27s+Think+Of+Something+To+Do)
+* 🎧 listening to [Snarky Puppy](https://www.last.fm/music/Snarky+Puppy/_/Tarova)
 * 🏃‍♂️ running [2 miles](https://www.strava.com/activities/17126956334)
 * 📘 reading [“Frictionless: 7 Steps to Remove Barriers, Unlock Value, and Outpace Your Competition in the AI Era”](https://www.goodreads.com/book/show/243883904-frictionless)
 * 🍿 watching [“Won’t You Be My Neighbor? | Lady Gaga Original”](https://youtu.be/e3o5FIXoK84)
