@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Johnny Adams](https://www.last.fm/music/Johnny+Adams/_/after+all+the+good+is+gone)
+* 🎧 listening to [Chantae Cann](https://www.last.fm/music/Chantae+Cann/_/Free+Your+Dreams)
 * 🏃‍♂️ running [2 miles](https://www.strava.com/activities/17126956334)
 * 📘 reading [“Upstream: The Quest to Solve Problems Before They Happen”](https://www.goodreads.com/book/show/48549702-upstream)
 * 🍿 watching [“Won’t You Be My Neighbor? | Lady Gaga Original”](https://youtu.be/e3o5FIXoK84)
