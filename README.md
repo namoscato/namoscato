@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Shaun Martin](https://www.last.fm/music/Shaun+Martin/_/One+Big+Party)
+* 🎧 listening to [Randy Newman](https://www.last.fm/music/Randy+Newman/_/It%27s+a+Jungle+out+There+(V2))
 * 🏃‍♂️ running [2.2 miles](https://www.strava.com/activities/17850787467)
 * 📘 reading [“Upstream: The Quest to Solve Problems Before They Happen”](https://www.goodreads.com/book/show/48549702-upstream)
 * 🍿 watching [“Won’t You Be My Neighbor? | Lady Gaga Original”](https://youtu.be/e3o5FIXoK84)
