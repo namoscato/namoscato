@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Miles Davis](https://www.last.fm/music/Miles+Davis/_/So+What+(feat.+John+Coltrane,+Cannonball+Adderley+&+Bill+Evans))
+* 🎧 listening to [Miles Davis](https://www.last.fm/music/Miles+Davis/_/All+Blues+(feat.+John+Coltrane,+Cannonball+Adderley+&+Bill+Evans))
 * 🏃‍♂️ running [2.2 miles](https://www.strava.com/activities/17850787467)
 * 📘 reading [“Upstream: The Quest to Solve Problems Before They Happen”](https://www.goodreads.com/book/show/48549702-upstream)
 * 🍿 watching [“Won’t You Be My Neighbor? | Lady Gaga Original”](https://youtu.be/e3o5FIXoK84)
