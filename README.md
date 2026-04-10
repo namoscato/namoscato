@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Tomaso Giovanni Albinoni](https://www.last.fm/music/Tomaso+Giovanni+Albinoni/_/Oboe+Concerto+in+C+major,+Op.+9+No.+5:+III.+Allegro)
+* 🎧 listening to [Mister Rogers](https://www.last.fm/music/Mister+Rogers/_/Then+Your+Heart+Is+Full+Of+Love)
 * 🏃‍♂️ running [2.2 miles](https://www.strava.com/activities/18038034551)
 * 📘 reading [“Upstream: The Quest to Solve Problems Before They Happen”](https://www.goodreads.com/book/show/48549702-upstream)
 * 🍿 watching [“Won’t You Be My Neighbor? | Lady Gaga Original”](https://youtu.be/e3o5FIXoK84)
