@@ -39,7 +39,7 @@ mock.onGet('https://amoscato.com/journal/index.xml').reply(
 <link>https://amoscato.com/journal/observable-development/</link>
 </item>
 </channel>
-</rss>`
+</rss>`,
 );
 
 const expectedContent = `

@@ -1,7 +1,7 @@
 import axios from 'axios';
 import {promises} from 'fs';
 import * as Mustache from 'mustache';
-import * as RssParser from 'rss-parser';
+import RssParser from 'rss-parser';
 import {STRAVA_TYPE_VERB_MAP} from './consts';
 import {CurrentData} from './types';
 
@@ -10,7 +10,7 @@ const rssParser = new RssParser();
 export async function render(templatePath: string): Promise<string> {
   console.log('Fetching current data');
   const {data} = await axios.get(
-    'https://storage.amoscato.com/www/data/current.json'
+    'https://storage.amoscato.com/www/data/current.json',
   );
 
   console.log('Fetching latest journal');
