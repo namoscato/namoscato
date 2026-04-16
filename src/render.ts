@@ -1,7 +1,7 @@
 import axios from 'axios';
 import {promises} from 'fs';
 import * as Mustache from 'mustache';
-import * as RssParser from 'rss-parser';
+import RssParser from 'rss-parser';
 import {STRAVA_TYPE_VERB_MAP} from './consts';
 import {CurrentData} from './types';
 
