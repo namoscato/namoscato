@@ -4,6 +4,6 @@ import {render} from './render';
 const readmeFilename = 'README.md';
 export const readmeTemplate = `${readmeFilename}.tpl`;
 
-render(readmeTemplate).then(contents => {
+void render(readmeTemplate).then(contents => {
   fs.writeFileSync(readmeFilename, contents);
 });

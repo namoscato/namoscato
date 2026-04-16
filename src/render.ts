@@ -10,7 +10,7 @@ const rssParser = new RssParser();
 export async function render(templatePath: string): Promise<string> {
   console.log('Fetching current data');
   const {data} = await axios.get(
-    'https://storage.amoscato.com/www/data/current.json'
+    'https://storage.amoscato.com/www/data/current.json',
   );
 
   console.log('Fetching latest journal');
