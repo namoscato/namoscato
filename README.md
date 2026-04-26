@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Daniel Tiger’S Neighborhood](https://www.last.fm/music/Daniel+Tiger%E2%80%99S+Neighborhood/_/Saying+I%27m+Sorry+Is+the+First+Step)
+* 🎧 listening to [Beautiful Chorus](https://www.last.fm/music/Beautiful+Chorus/_/Solar+Plexus+Chakra)
 * 🏃‍♂️ running [2 miles](https://www.strava.com/activities/18208989070)
 * 📘 reading [“Upstream: The Quest to Solve Problems Before They Happen”](https://www.goodreads.com/book/show/48549702-upstream)
 * 🍿 watching [“Won’t You Be My Neighbor? | Lady Gaga Original”](https://youtu.be/e3o5FIXoK84)
