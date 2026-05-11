@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Elmo](https://www.last.fm/music/Elmo/_/Elmo%E2%80%99s+Letter+of+the+Day:+A!)
+* 🎧 listening to [Numberblocks](https://www.last.fm/music/Numberblocks/_/Peekaboo!)
 * 🏃‍♂️ running [2.3 miles](https://www.strava.com/activities/18409525544)
 * 📘 reading [“Upstream: The Quest to Solve Problems Before They Happen”](https://www.goodreads.com/book/show/48549702-upstream)
 * 🍿 watching [“Won’t You Be My Neighbor? | Lady Gaga Original”](https://youtu.be/e3o5FIXoK84)
