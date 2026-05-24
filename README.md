@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Snarky Puppy](https://www.last.fm/music/Snarky+Puppy/_/Only+Here+and+Nowhere+Else)
+* 🎧 listening to [The Dave Brubeck Quartet](https://www.last.fm/music/The+Dave+Brubeck+Quartet/_/Strange+Meadow+Lark)
 * 🏃‍♂️ running [2 miles](https://www.strava.com/activities/18565148136)
 * 📘 reading [“Upstream: The Quest to Solve Problems Before They Happen”](https://www.goodreads.com/book/show/48549702-upstream)
 * 🍿 watching [“Won’t You Be My Neighbor? | Lady Gaga Original”](https://youtu.be/e3o5FIXoK84)
