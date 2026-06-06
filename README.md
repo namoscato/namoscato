@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Nathan Lane](https://www.last.fm/music/Nathan+Lane/_/Hakuna+Matata+-+From+%22The+Lion+King%22+Soundtrack)
+* 🎧 listening to [Earth, Wind &amp; Fire](https://www.last.fm/music/Earth,+Wind+&+Fire/_/Sing+a+Song)
 * 🏃‍♂️ running [2.99 miles](https://www.strava.com/activities/18780871736)
 * 📘 reading [“Upstream: The Quest to Solve Problems Before They Happen”](https://www.goodreads.com/book/show/48549702-upstream)
 * 🍿 watching [“Won’t You Be My Neighbor? | Lady Gaga Original”](https://youtu.be/e3o5FIXoK84)
