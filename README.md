@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Laurie Main](https://www.last.fm/music/Laurie+Main/_/Winnie+the+Pooh+and+the+Honey+Tree)
+* 🎧 listening to [Stevie Wonder](https://www.last.fm/music/Stevie+Wonder/_/Signed,+Sealed,+Delivered+(I%27m+Yours))
 * 🏃‍♂️ running [2.99 miles](https://www.strava.com/activities/18780871736)
 * 📘 reading [“Upstream: The Quest to Solve Problems Before They Happen”](https://www.goodreads.com/book/show/48549702-upstream)
 * 🍿 watching [“Won’t You Be My Neighbor? | Lady Gaga Original”](https://youtu.be/e3o5FIXoK84)
