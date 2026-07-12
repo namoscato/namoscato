@@ -2,8 +2,6 @@ import axios from 'axios';
 import {promises} from 'fs';
 import * as Mustache from 'mustache';
 import RssParser from 'rss-parser';
-import {STRAVA_TYPE_VERB_MAP} from './consts';
-import {CurrentData} from './types';
 
 const rssParser = new RssParser();
 
@@ -20,7 +18,7 @@ export async function render(templatePath: string): Promise<string> {
   const template = await promises.readFile(templatePath, 'utf8');
 
   console.log('Rendering README');
-  return Mustache.render(template, viewFromResponse(data));
+  return Mustache.render(template, data);
 }
 
 async function fetchJournal(): Promise<{
@@ -35,15 +33,4 @@ async function fetchJournal(): Promise<{
     title: journal.title,
     url: journal.link,
   };
-}
-
-function viewFromResponse(data: CurrentData): CurrentData {
-  const athleticActivity = data.athleticActivity;
-
-  athleticActivity.verb = STRAVA_TYPE_VERB_MAP[athleticActivity.type];
-  athleticActivity.label = `${
-    Math.floor(100 * athleticActivity.miles) / 100
-  } miles`;
-
-  return data;
 }
