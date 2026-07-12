@@ -8,9 +8,6 @@
 {{#music}}
 * 🎧 listening to [{{artist}}]({{{url}}})
 {{/music}}
-{{#athleticActivity}}
-* 🏃‍♂️ {{verb}} [{{label}}]({{{url}}})
-{{/athleticActivity}}
 {{#book}}
 * 📘 reading [“{{title}}”]({{{url}}})
 {{/book}}
