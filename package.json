@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/namoscato",
   "dependencies": {
-    "axios": "^1.17.0",
+    "axios": "^1.18.1",
     "mustache": "^4.2.0",
     "rss-parser": "^3.13.0"
   },
