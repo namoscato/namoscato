@@ -4,5 +4,6 @@
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
 * 🎧 listening to [Imogen Heap](https://www.last.fm/music/Imogen+Heap/_/The+Happy+Song)
+* 📘 reading [“Upstream: The Quest to Solve Problems Before They Happen”](https://www.goodreads.com/book/show/48549702-upstream)
 * 🍿 watching [“Won’t You Be My Neighbor? | Lady Gaga Original”](https://youtu.be/e3o5FIXoK84)
 * 🍺 drinking [Brewed Awakening](https://untappd.com/user/namoscato/checkin/1581783245)
