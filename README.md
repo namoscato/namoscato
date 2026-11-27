@@ -3,7 +3,7 @@
 #### CURRENTLY —
 
 * ✏️ writing [“The Final Project”](https://www.amoscato.com/journal/final-project/)
-* 🎧 listening to [Julie Andrews](https://www.last.fm/music/Julie+Andrews/_/Supercalifragilisticexpialidocious+-+From+%22Mary+Poppins%22+Soundtrack)
+* 🎧 listening to [SAJA BOYS](https://www.last.fm/music/SAJA+BOYS/_/Soda+Pop)
 * 📘 reading [“Upstream: The Quest to Solve Problems Before They Happen”](https://www.goodreads.com/book/show/48549702-upstream)
 * 🍿 watching [“Won’t You Be My Neighbor? | Lady Gaga Original”](https://youtu.be/e3o5FIXoK84)
 * 🍺 drinking [Baked Pumpkin Ale](https://untappd.com/user/namoscato/checkin/1605162354)
